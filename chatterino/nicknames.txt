@@ -1,0 +1,626 @@
+    "nicknames": [
+        {
+            "name": "furqanriaz",
+            "replace": "Furq",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "LunnPHS_",
+            "replace": "Lunn",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "XenoPlopQB",
+            "replace": "Plop",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "hhharrisonnn",
+            "replace": "Harrison",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "jellybran",
+            "replace": "Bran",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "NEWOAH_",
+            "replace": "Noah",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "normsbruhh",
+            "replace": "Norms",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "Ratot",
+            "replace": "🐀 tot",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "HappyToaster_",
+            "replace": "Toaster",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "Ike_tx",
+            "replace": "Ike",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "BiteLC",
+            "replace": "Bite",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "DoctorDankus",
+            "replace": "Dankus",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "xQcOW",
+            "replace": "xQc",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "sodapoppin",
+            "replace": "Soda",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "AuroR6S",
+            "replace": "Auro",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "nmplol",
+            "replace": "nmp",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "VexNade",
+            "replace": "Vex",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "KafieneOW",
+            "replace": "Kaf",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "beanmariocow_",
+            "replace": "Bmc",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "pykeuwu123",
+            "replace": "Pyke",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "Big_Spinich",
+            "replace": "Spinich",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "nekraAD",
+            "replace": "Nekra",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "beastysped",
+            "replace": "Sped",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "vloted",
+            "replace": "vlo",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "snowstormcs",
+            "replace": "Snowwy",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "seuss02",
+            "replace": "Soos",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "xVerseO",
+            "replace": "Verse",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "vBammy",
+            "replace": "Bammy",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "MysticBenjii",
+            "replace": "Benjii",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "PigeonCarbon",
+            "replace": "Carbon",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "prenaturaI",
+            "replace": "Pre",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "FreeformFob",
+            "replace": "Fob",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "DCtropical",
+            "replace": "DC",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "Putupaula",
+            "replace": "Putu",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "TurkeyOW",
+            "replace": "Toorki",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "LiptonGod",
+            "replace": "Lipton",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "Slurpoh",
+            "replace": "Slurpy",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "zoweeh",
+            "replace": "Zoe",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "zachonetwelve",
+            "replace": "Zach",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "yh0Nathan",
+            "replace": "Nathan",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "Jujufrost",
+            "replace": "Juju",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "garrry_____12",
+            "replace": "Garry",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "N8Anderson",
+            "replace": "Nate",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "Billy3Twitch",
+            "replace": "Billy",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "laweaespacial",
+            "replace": "Lawe",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "bombey01",
+            "replace": "Bombey",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "Infamous_AK_",
+            "replace": "Infamous",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "NeptuneTTT",
+            "replace": "Neptune",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "intrinsicmc",
+            "replace": "Int",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "zhandy38",
+            "replace": "Zhandy",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "asaad_9",
+            "replace": "Asaad",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "UnLimited99",
+            "replace": "Unlimited",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "WarriorFall",
+            "replace": "Warrior",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "unbotherd2",
+            "replace": "Unbotherd",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "eazylemnsqeezy",
+            "replace": "Eazy",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "clapzyGN",
+            "replace": "Clapzy",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "sandfir1",
+            "replace": "Sand",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "PINHEIROn",
+            "replace": "PIN",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "4WeirdChampp",
+            "replace": "4WC",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "mystery4d",
+            "replace": "Mystery",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "JaFrogg",
+            "replace": "Plops Alt",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "0ryoss",
+            "replace": "0ry",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "KaczkaDuk",
+            "replace": "Duk",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "YokoFrost",
+            "replace": "Yoko",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "ImNotaWeebCopium",
+            "replace": "Chad",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "TwoLetterName",
+            "replace": "TLN",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "ArrowPC",
+            "replace": "APC",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "BUBBABUNYIP",
+            "replace": "Bubba",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "HighKilla",
+            "replace": "Killa",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "XOOSD",
+            "replace": "xoosd",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "DaHul_",
+            "replace": "DaHul",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "velpux",
+            "replace": "Velpux",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "3LIT3B3AST",
+            "replace": "3LIT3",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "xink_exe",
+            "replace": "Xink",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "forgettrance",
+            "replace": "Trance",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "dwb__",
+            "replace": "dwb",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "shinypokimans7",
+            "replace": "Harrison Alt",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "VuldroX",
+            "replace": "Vuld",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "H1kkenNoAce",
+            "replace": "Ace",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "deepbluebottom",
+            "replace": "dbb",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "TheHesser",
+            "replace": "Hesser",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "K2ll",
+            "replace": "K2",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "moldnugget",
+            "replace": "Nugget",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "Genialasp",
+            "replace": "Geni",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "lilbint",
+            "replace": "Bint",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "Vashiiq",
+            "replace": "Vashi",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "idrisrocks",
+            "replace": "Idris",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "Zombsiee",
+            "replace": "Zombs",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "IvanGraph",
+            "replace": "Ivan",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "lilbint",
+            "replace": "Bint",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "TJT811",
+            "replace": "TJT",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "daumenloser",
+            "replace": "Daumen",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "VisioisiV",
+            "replace": "Bisio",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "Axo__",
+            "replace": "Axo",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "imSPIEG0",
+            "replace": "Spieg",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "Sleepyboio",
+            "replace": "Sleepy",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "niezzer_",
+            "replace": "Niezzer",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "ImZ_loading",
+            "replace": "ImZ",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "Anthamin",
+            "replace": "Anth",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "hawichii",
+            "replace": "Hawi",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "kTobaias",
+            "replace": "Tobaias",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "Yagnesh",
+            "replace": "Yag",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "nvrq",
+            "replace": "nv",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "xqcbozo",
+            "replace": "Juju Alt",
+            "isRegex": true,
+            "isCaseSensitive": false
+        }
+    ],
