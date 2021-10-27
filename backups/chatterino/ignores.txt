@@ -1,0 +1,71 @@
+    "ignore": {
+        "phrases": [
+            {
+                "pattern": "emote here",
+                "regex": true,
+                "isBlock": true,
+                "replaceWith": "",
+                "caseSensitive": false
+            },
+            {
+                "pattern": "doinks",
+                "regex": true,
+                "isBlock": true,
+                "replaceWith": "***",
+                "caseSensitive": true
+            },
+            {
+                "pattern": "\\bacab|blm|(black)?\\s?lives\\s?matter|👢|🥾|bootlicker|racism|brutality|m0xyH|xqcCo|xqcBased|cmonbruh|peepoWideBruh\\b",
+                "regex": true,
+                "isBlock": true,
+                "replaceWith": "",
+                "caseSensitive": false
+            },
+            {
+                "pattern": "viperus|viprow",
+                "regex": true,
+                "isBlock": true,
+                "replaceWith": "",
+                "caseSensitive": false
+            },
+            {
+                "pattern": "dviper|Viperzlol|SylentViper|votxviper|wubbyPray",
+                "regex": true,
+                "isBlock": false,
+                "replaceWith": "{emote/name that bings me lole}",
+                "caseSensitive": false
+            },
+            {
+                "pattern": "TriOld",
+                "regex": true,
+                "isBlock": false,
+                "replaceWith": "TriHard",
+                "caseSensitive": false
+            },
+            {
+                "pattern": "byproduct",
+                "regex": true,
+                "isBlock": false,
+                "replaceWith": "by-product",
+                "caseSensitive": false
+            },
+            {
+                "pattern": "fDdGN.mp4|1uQuY.mp4",
+                "regex": true,
+                "isBlock": false,
+                "replaceWith": "{***pajadink screamer*** https://i.nuuls.com/fDdGN.mp4 }",
+                "caseSensitive": false
+            },
+            {
+                "pattern": "haHAA|forsenH",
+                "regex": true,
+                "isBlock": false,
+                "replaceWith": "my parents left at a young age and never supported me growing up",
+                "caseSensitive": true
+            }
+        ],
+        "showIgnoredUsers": 1,
+        "enableTwitchIgnoredUsers": true,
+        "enableTwitchBlockedUsers": true,
+        "showBlockedUsers": 1
+    },

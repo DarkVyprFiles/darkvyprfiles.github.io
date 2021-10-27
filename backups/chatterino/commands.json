@@ -1,0 +1,108 @@
+{
+    "commands": [
+        {
+            "name": "/egg",
+            "func": "Okayeg dame huevo"
+        },
+        {
+            "name": "/sell",
+            "func": "Okayeg vender huevo"
+        },
+        {
+            "name": "/do",
+            "func": "FeelsDonkMan  {1+}"
+        },
+        {
+            "name": "/u",
+            "func": "/usercard {1}"
+        },
+        {
+            "name": "/d",
+            "func": "FeelsDankMan  {1+}"
+        },
+        {
+            "name": "/toodank",
+            "func": "𒌧𒅃꧅꧅𒈓𒈙꧅𒈙𒈙ဪဪ𒈙﷽𒅌꧅ DamnWart 𒌧𒅃꧅꧅𒈓𒈙꧅𒈙𒈙ဪဪ𒈙﷽𒅌꧅ DamnWart 𒌧𒅃꧅꧅𒈓𒈙꧅𒈙𒈙ဪဪ𒈙﷽𒅌꧅ DamnWart 𒌧𒅃꧅꧅𒈓𒈙꧅𒈙𒈙ဪဪ𒈙﷽𒅌꧅ DamnWart 𒌧𒅃꧅꧅𒈓𒈙꧅𒈙𒈙ဪဪ𒈙﷽𒅌꧅ DamnWart 𒌧𒅃꧅꧅𒈓𒈙꧅𒈙𒈙ဪဪ𒈙﷽𒅌꧅ DamnWart 𒌧𒅃꧅꧅𒈓𒈙꧅𒈙𒈙ဪဪ𒈙﷽𒅌꧅ DamnWart 𒌧𒅃꧅꧅𒈓𒈙꧅𒈙𒈙ဪဪ𒈙﷽𒅌꧅ DamnWart 𒌧𒅃꧅꧅𒈓𒈙꧅𒈙𒈙ဪဪ𒈙﷽𒅌꧅ DamnWart 𒌧𒅃꧅꧅𒈓𒈙꧅𒈙𒈙ဪဪ𒈙﷽𒅌꧅ DamnWart 𒌧𒅃꧅꧅𒈓𒈙꧅𒈙𒈙ဪဪ𒈙﷽𒅌꧅ DamnWart 𒌧𒅃꧅꧅𒈓𒈙꧅𒈙𒈙ဪဪ𒈙﷽𒅌꧅ DamnWart 𒌧𒅃꧅꧅𒈓𒈙꧅𒈙𒈙ဪဪ𒈙﷽𒅌꧅ DamnWart 𒌧𒅃꧅꧅𒈓𒈙꧅𒈙𒈙ဪဪ𒈙﷽𒅌꧅ DamnWart 𒌧𒅃꧅꧅𒈓𒈙꧅𒈙𒈙ဪဪ𒈙﷽𒅌꧅  DamnWart"
+        },
+        {
+            "name": "/m",
+            "func": "$$ veiSip"
+        },
+        {
+            "name": "/bttv",
+            "func": "toaster gifted maiman bttv pro and all the old emotes came back"
+        },
+        {
+            "name": "/blank",
+            "func": "⠀ {1+}"
+        },
+        {
+            "name": "/tf",
+            "func": ":tf: 🤏 {1+}"
+        },
+        {
+            "name": "/plop",
+            "func": "193814010 {1+}"
+        },
+        {
+            "name": "/o",
+            "func": "elisOmega {1+}"
+        },
+        {
+            "name": "/botlist",
+            "func": "This is the command: !filesay https://pastebin.com/raw/Cgxq0auE"
+        },
+        {
+            "name": "/runlist",
+            "func": "!filesay https://pastebin.com/raw/Cgxq0auE"
+        },
+        {
+            "name": "/filter",
+            "func": "only lets 12 month and above subs through and all the names are people that arent subbed or are subbed for less than 12 months"
+        },
+        {
+            "name": "/rou",
+            "func": "Okayeg rolet {1}"
+        },
+        {
+            "name": "/founder",
+            "func": "you never lose founder status, when ur sub expires the badge dissappears but when u resub the founder badge comes back. same as twitch founder"
+        },
+        {
+            "name": "/doccbt",
+            "func": "⣿⣿⣿⣿⣿⣿⣿⣿⣿⡏⣻⡟⢿⠷⡊⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣇⢀⠄⠓⠄⠠⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇ ⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠈⣿⣛⣻⠇⣌⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇ ⣿⣿⣿⣿⣿⣿⣿⡿⢏⣧⠄⢿⣿⡿⠄⣬⡻⢿⣿⣿⣿⣿⣿⣿⣿⡇ ⣿⣿⣿⣿⣿⡟⠁⠄⠄⢻⣇⣀⣀⣀⣀⣿⠁⠄⢿⣿⣿⣿⣿⣿⣿⡇ ⣿⣿⣿⣿⣿⡇⠄⠄⠄⢸⣿⣿⣿⣿⣿⣿⡆⠄⠘⣿⣿⣿⣿⣿⣿⡇ ⣿⣿⣿⣿⣿⡇⠄⠄⠄⢸⣿⣿⣿⣿⣿⣿⠄⠄⠄⢹⣿⣿⣿⣿⣿⡇ ⣿⣿⣿⣿⣿⣷⣶⡦⠄⢸⣿⣿⣿⣿⣿⣿⠄⢀⣐⢸⣿⣿⣿⣿⣿⡇ ⣿⣿⣿⣿⣿⡟⠛⢇⠄⠛⠛⠛⠛⠛⠛⢿⠖⠛⠋⣰⣿⣿⣿⣿⣿⡇ ⣿⣿⣿⣿⣿⣷⣄⠈⠣⢴⣶⣶⣦⣶⣶⢕⣤⢺⣿⣿⣿⣿⣿⣿⣿⡇ ⣿⣿⣿⣿⣿⣿⣿⡇⣤⡀⠹⢿⡟⣽⣷⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇ ⣿⣿⣿⣿⣿⣿⣿⡇⣿⣿⣦⡀⠈⠉⣹⣿⣿⣿⣹⣿⣿⣿⣿⣿⣿⡇ ⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠯⠿⠶⠄⠿⠿⠿⠿⠟⠿⠿⠿⠿⠿⠿"
+        },
+        {
+            "name": "/elisdance",
+            "func": "elisDance https://i.imgur.com/fIyZ71v.mp4 elisDance"
+        },
+        {
+            "name": "/japan",
+            "func": "grrrr jappan 🇯🇵 is best country in teh world (sekai) !!!! 🤬 😡 !!! 👹 🤬 !!!!! west bAd grrrgghhhg japenis culture ⛩ 🎎 🎏 better than amrican 🗽 🍔 👎 !!! (>~<) vendor machine eveywhere 🗼 and sakura trees are so 🌸 a e s t h e t i c 🌸 UwU if u hate it then your NOT a man of culture so shinē!!! ~hmph baka -_- 🏮"
+        },
+        {
+            "name": "/pasta",
+            "func": "In case of an investigation by any federal entity or similar, I do not have any involvement with this group or with the people in it, I do not know how I am here, probably added by a third party, I do not support any actions by the member of this group."
+        },
+        {
+            "name": "/kitten",
+            "func": "Whos my good wittwe~ kitten? I~ I am~ *shits* Uh oh~ ^w^ Kitten did you just make a poopy~ woopy~ iny youw panytsy~ wanytsys~? ^w^ I... I did daddy~ Im sowwy~ ^w^ ^w^ ^w^ Its ok kitten, i wike my kitten a wittwe *shits* *whispews* stinyky~ winyky~"
+        },
+        {
+            "name": "/sh",
+            "func": "{1+} elisShrug"
+        },
+        {
+            "name": "/check",
+            "func": "/w Supibot $check afk {1}"
+        },
+        {
+            "name": "/image",
+            "func": "https://darkvypr.cf/twitch/images/{1}.{2}"
+        },
+        {
+            "name": "/file",
+            "func": "https://darkvypr.cf/twitch/files/{1}.{2}"
+        }
+    ]
+}
