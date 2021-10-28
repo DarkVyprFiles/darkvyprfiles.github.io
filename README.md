@@ -1,4 +1,4 @@
-# darkvyprfiles.github.io
+# files.darkvypr.cf
 
 This is literally just my scuffed way of storing files under my domain lole
 
