@@ -31,6 +31,7 @@ vpyr
 bper
 bypur
 bpr
+booper
 darkv
 UnShadowBanDarkVyprTwitch
 275711366
