@@ -1,0 +1,9 @@
+MALE:
+
+regex:\b(he)(')?(s)?(\sis)?\s(?:[2-9]|1[0-7]?)\b
+
+FEMALE:
+
+regex:\b(she)(')?(s)?(\sis)?\s(?:[2-9]|1[0-7]?)\b
+
+(All formatted for Fossabot)
