@@ -9,7 +9,6 @@
             "tabs": [
                 {
                     "highlightsEnabled": true,
-                    "selected": true,
                     "splits2": {
                         "flexh": 1,
                         "flexv": 1,
@@ -278,109 +277,6 @@
                     "title": "elis"
                 },
                 {
-                    "highlightsEnabled": true,
-                    "splits2": {
-                        "flexh": 1,
-                        "flexv": 1,
-                        "items": [
-                            {
-                                "flexh": 1,
-                                "flexv": 1,
-                                "items": [
-                                    {
-                                        "data": {
-                                            "name": "hottemperz",
-                                            "type": "twitch"
-                                        },
-                                        "filters": [
-                                        ],
-                                        "flexh": 1,
-                                        "flexv": 1.227901383042694,
-                                        "moderationMode": false,
-                                        "type": "split"
-                                    },
-                                    {
-                                        "data": {
-                                            "name": "lilbint",
-                                            "type": "twitch"
-                                        },
-                                        "filters": [
-                                        ],
-                                        "flexh": 1,
-                                        "flexv": 0.7720986169573061,
-                                        "moderationMode": false,
-                                        "type": "split"
-                                    }
-                                ],
-                                "type": "vertical"
-                            },
-                            {
-                                "flexh": 1,
-                                "flexv": 1,
-                                "items": [
-                                    {
-                                        "data": {
-                                            "name": "okabar",
-                                            "type": "twitch"
-                                        },
-                                        "filters": [
-                                        ],
-                                        "flexh": 1,
-                                        "flexv": 1,
-                                        "moderationMode": false,
-                                        "type": "split"
-                                    },
-                                    {
-                                        "data": {
-                                            "name": "maiman",
-                                            "type": "twitch"
-                                        },
-                                        "filters": [
-                                        ],
-                                        "flexh": 1,
-                                        "flexv": 1,
-                                        "moderationMode": false,
-                                        "type": "split"
-                                    }
-                                ],
-                                "type": "vertical"
-                            },
-                            {
-                                "flexh": 1,
-                                "flexv": 1,
-                                "items": [
-                                    {
-                                        "data": {
-                                            "type": "mentions"
-                                        },
-                                        "filters": [
-                                        ],
-                                        "flexh": 1,
-                                        "flexv": 1,
-                                        "moderationMode": false,
-                                        "type": "split"
-                                    },
-                                    {
-                                        "data": {
-                                            "name": "darkvypr",
-                                            "type": "twitch"
-                                        },
-                                        "filters": [
-                                        ],
-                                        "flexh": 1,
-                                        "flexv": 1,
-                                        "moderationMode": false,
-                                        "type": "split"
-                                    }
-                                ],
-                                "type": "vertical"
-                            }
-                        ],
-                        "type": "horizontal"
-                    },
-                    "title": "temperz"
-                },
-                {
                     "highlightsEnabled": false,
                     "splits2": {
                         "flexh": 1,
@@ -471,16 +367,35 @@
                         "flexv": 1,
                         "items": [
                             {
-                                "data": {
-                                    "name": "zreem",
-                                    "type": "twitch"
-                                },
-                                "filters": [
-                                ],
                                 "flexh": 1,
                                 "flexv": 1,
-                                "moderationMode": false,
-                                "type": "split"
+                                "items": [
+                                    {
+                                        "data": {
+                                            "name": "nozav",
+                                            "type": "twitch"
+                                        },
+                                        "filters": [
+                                        ],
+                                        "flexh": 1,
+                                        "flexv": 0.7371794871794872,
+                                        "moderationMode": false,
+                                        "type": "split"
+                                    },
+                                    {
+                                        "data": {
+                                            "name": "zreem",
+                                            "type": "twitch"
+                                        },
+                                        "filters": [
+                                        ],
+                                        "flexh": 1,
+                                        "flexv": 1.2628205128205128,
+                                        "moderationMode": false,
+                                        "type": "split"
+                                    }
+                                ],
+                                "type": "vertical"
                             },
                             {
                                 "flexh": 1,
@@ -546,7 +461,110 @@
                         ],
                         "type": "horizontal"
                     },
-                    "title": "zreem"
+                    "title": "zreem+noazv"
+                },
+                {
+                    "highlightsEnabled": true,
+                    "splits2": {
+                        "flexh": 1,
+                        "flexv": 1,
+                        "items": [
+                            {
+                                "flexh": 1,
+                                "flexv": 1,
+                                "items": [
+                                    {
+                                        "data": {
+                                            "name": "hottemperz",
+                                            "type": "twitch"
+                                        },
+                                        "filters": [
+                                        ],
+                                        "flexh": 1,
+                                        "flexv": 1.0525641025641026,
+                                        "moderationMode": false,
+                                        "type": "split"
+                                    },
+                                    {
+                                        "data": {
+                                            "name": "nmplol",
+                                            "type": "twitch"
+                                        },
+                                        "filters": [
+                                        ],
+                                        "flexh": 1,
+                                        "flexv": 0.9474358974358974,
+                                        "moderationMode": false,
+                                        "type": "split"
+                                    }
+                                ],
+                                "type": "vertical"
+                            },
+                            {
+                                "flexh": 1,
+                                "flexv": 1,
+                                "items": [
+                                    {
+                                        "data": {
+                                            "name": "okabar",
+                                            "type": "twitch"
+                                        },
+                                        "filters": [
+                                        ],
+                                        "flexh": 1,
+                                        "flexv": 1,
+                                        "moderationMode": false,
+                                        "type": "split"
+                                    },
+                                    {
+                                        "data": {
+                                            "name": "maiman",
+                                            "type": "twitch"
+                                        },
+                                        "filters": [
+                                        ],
+                                        "flexh": 1,
+                                        "flexv": 1,
+                                        "moderationMode": false,
+                                        "type": "split"
+                                    }
+                                ],
+                                "type": "vertical"
+                            },
+                            {
+                                "flexh": 1,
+                                "flexv": 1,
+                                "items": [
+                                    {
+                                        "data": {
+                                            "type": "mentions"
+                                        },
+                                        "filters": [
+                                        ],
+                                        "flexh": 1,
+                                        "flexv": 1,
+                                        "moderationMode": false,
+                                        "type": "split"
+                                    },
+                                    {
+                                        "data": {
+                                            "name": "darkvypr",
+                                            "type": "twitch"
+                                        },
+                                        "filters": [
+                                        ],
+                                        "flexh": 1,
+                                        "flexv": 1,
+                                        "moderationMode": false,
+                                        "type": "split"
+                                    }
+                                ],
+                                "type": "vertical"
+                            }
+                        ],
+                        "type": "horizontal"
+                    },
+                    "title": "nmp+temp"
                 },
                 {
                     "highlightsEnabled": true,
@@ -566,19 +584,19 @@
                                         "filters": [
                                         ],
                                         "flexh": 1,
-                                        "flexv": 0.7877629063097514,
+                                        "flexv": 0.9474358974358974,
                                         "moderationMode": false,
                                         "type": "split"
                                     },
                                     {
                                         "data": {
-                                            "name": "visioisiv",
+                                            "name": "unbotherd2",
                                             "type": "twitch"
                                         },
                                         "filters": [
                                         ],
                                         "flexh": 1,
-                                        "flexv": 1.2122370936902485,
+                                        "flexv": 1.0525641025641026,
                                         "moderationMode": false,
                                         "type": "split"
                                     }
@@ -649,7 +667,7 @@
                         ],
                         "type": "horizontal"
                     },
-                    "title": "bisio+axo"
+                    "title": "unbotherd+axo"
                 },
                 {
                     "highlightsEnabled": false,
@@ -1119,6 +1137,7 @@
                 },
                 {
                     "highlightsEnabled": true,
+                    "selected": true,
                     "splits2": {
                         "flexh": 1,
                         "flexv": 1,
@@ -1135,7 +1154,7 @@
                                         "filters": [
                                         ],
                                         "flexh": 1,
-                                        "flexv": 1,
+                                        "flexv": 1.0242498972461982,
                                         "moderationMode": false,
                                         "type": "split"
                                     },
@@ -1147,7 +1166,7 @@
                                         "filters": [
                                         ],
                                         "flexh": 1,
-                                        "flexv": 1,
+                                        "flexv": 1.0242498972461982,
                                         "moderationMode": false,
                                         "type": "split"
                                     },
@@ -1159,7 +1178,7 @@
                                         "filters": [
                                         ],
                                         "flexh": 1,
-                                        "flexv": 1,
+                                        "flexv": 0.9272503082614058,
                                         "moderationMode": false,
                                         "type": "split"
                                     },
@@ -1171,7 +1190,7 @@
                                         "filters": [
                                         ],
                                         "flexh": 1,
-                                        "flexv": 1,
+                                        "flexv": 1.0242498972461982,
                                         "moderationMode": false,
                                         "type": "split"
                                     }
@@ -1196,7 +1215,7 @@
                                     },
                                     {
                                         "data": {
-                                            "name": "moistsalt",
+                                            "name": "frocasso",
                                             "type": "twitch"
                                         },
                                         "filters": [
@@ -1244,7 +1263,31 @@
                                         "filters": [
                                         ],
                                         "flexh": 1,
-                                        "flexv": 0.806845965770171,
+                                        "flexv": 0.9794871794871796,
+                                        "moderationMode": false,
+                                        "type": "split"
+                                    },
+                                    {
+                                        "data": {
+                                            "name": "semmys1",
+                                            "type": "twitch"
+                                        },
+                                        "filters": [
+                                        ],
+                                        "flexh": 1,
+                                        "flexv": 1,
+                                        "moderationMode": false,
+                                        "type": "split"
+                                    },
+                                    {
+                                        "data": {
+                                            "name": "tiredu",
+                                            "type": "twitch"
+                                        },
+                                        "filters": [
+                                        ],
+                                        "flexh": 1,
+                                        "flexv": 1,
                                         "moderationMode": false,
                                         "type": "split"
                                     },
@@ -1256,19 +1299,7 @@
                                         "filters": [
                                         ],
                                         "flexh": 1,
-                                        "flexv": 1.0965770171149143,
-                                        "moderationMode": false,
-                                        "type": "split"
-                                    },
-                                    {
-                                        "data": {
-                                            "name": "xoosd",
-                                            "type": "twitch"
-                                        },
-                                        "filters": [
-                                        ],
-                                        "flexh": 1,
-                                        "flexv": 1.0965770171149143,
+                                        "flexv": 1.0205128205128204,
                                         "moderationMode": false,
                                         "type": "split"
                                     }
