@@ -1,3 +1,93 @@
+    "highlighting": {
+        "whisperHighlight": {
+            "enableSound": true,
+            "enableTaskbarFlashing": true
+        },
+        "useCustomSound": false,
+        "alwaysPlaySound": true,
+        "blacklist": [
+            {
+                "pattern": "dats_me_00",
+                "regex": false
+            },
+            {
+                "pattern": "hhharrisonnnbot",
+                "regex": false
+            },
+            {
+                "pattern": "never_a_hero",
+                "regex": false
+            },
+            {
+                "pattern": "Pnigalion",
+                "regex": false
+            },
+            {
+                "pattern": "kgbagent345",
+                "regex": false
+            },
+            {
+                "pattern": "RaFo108",
+                "regex": false
+            },
+            {
+                "pattern": "SnappingBot",
+                "regex": false
+            },
+            {
+                "pattern": "Streamlabs",
+                "regex": false
+            },
+            {
+                "pattern": "talkLng",
+                "regex": false
+            },
+            {
+                "pattern": "dr_shungite",
+                "regex": false
+            },
+            {
+                "pattern": "rabbits_by_river",
+                "regex": false
+            },
+            {
+                "pattern": "KrynexTV",
+                "regex": false
+            },
+            {
+                "pattern": "DemoTou",
+                "regex": false
+            },
+            {
+                "pattern": "DomRhomb",
+                "regex": false
+            },
+            {
+                "pattern": "Apulxd",
+                "regex": false
+            },
+            {
+                "pattern": "qctigereyes",
+                "regex": false
+            },
+            {
+                "pattern": "xoosd",
+                "regex": false
+            },
+            {
+                "pattern": "persiancellphoneprince",
+                "regex": false
+            }
+        ],
+        "highlightSoundPath": "",
+        "whisperHighlightSoundUrl": "",
+        "selfHighlightSoundUrl": "",
+        "selfHighlight": {
+            "enableSound": true
+        },
+        "subHighlightSoundUrl": "",
+        "users": [],
+        "selfHighlightColor": "#5a8d1000",
         "highlights": [
             {
                 "pattern": "\\b(v|b)ypa(')?(s)?\\b",
@@ -117,7 +207,7 @@
                 "ExcludedChannels": []
             },
             {
-                "pattern": "\\b(b|v)o?ip(o|u)r\\b",
+                "pattern": "\\b(b|v)o?ip(o*|u)r\\b",
                 "showInMentions": true,
                 "alert": true,
                 "sound": true,
@@ -182,7 +272,7 @@
                 "ExcludedChannels": []
             },
             {
-                "pattern": "\bbpe?r\b",
+                "pattern": "\\bbpe?r\\b",
                 "showInMentions": true,
                 "alert": true,
                 "sound": true,
@@ -206,5 +296,68 @@
                 "global": true,
                 "channels": [],
                 "ExcludedChannels": []
+            },
+            {
+                "pattern": "(v|b)isio(isiv)?(')?(s)?(\\s)boyfriend",
+                "showInMentions": true,
+                "alert": true,
+                "sound": true,
+                "regex": true,
+                "case": false,
+                "soundUrl": "",
+                "color": "#5a8d1000",
+                "global": true,
+                "channels": [],
+                "ExcludedChannels": []
+            },
+            {
+                "pattern": "\\b(dark|bright)?\\s?dype?r\\b",
+                "showInMentions": true,
+                "alert": true,
+                "sound": true,
+                "regex": true,
+                "case": false,
+                "soundUrl": "",
+                "color": "#5a8d1000",
+                "global": true,
+                "channels": [],
+                "ExcludedChannels": []
+            },
+            {
+                "pattern": "booper",
+                "showInMentions": true,
+                "alert": true,
+                "sound": true,
+                "regex": false,
+                "case": false,
+                "soundUrl": "",
+                "color": "#5a8d1000",
+                "global": true,
+                "channels": [],
+                "ExcludedChannels": []
+            },
+            {
+                "pattern": "dark\\s?diaper",
+                "showInMentions": true,
+                "alert": true,
+                "sound": true,
+                "regex": true,
+                "case": false,
+                "soundUrl": "",
+                "color": "#5a8d1000",
+                "global": true,
+                "channels": [],
+                "ExcludedChannels": []
             }
         ],
+        "subHighlight": {
+            "enableSound": false,
+            "subsHighlighted": true
+        },
+        "redeemedHighlightSoundUrl": "",
+        "redeemedHighlight": {
+            "highlighted": true
+        },
+        "mentions": false,
+        "alerts": false
+    },
