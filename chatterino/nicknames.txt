@@ -622,5 +622,35 @@
             "replace": "Juju Alt",
             "isRegex": true,
             "isCaseSensitive": false
+        },
+        {
+            "name": "godemperoraxo",
+            "replace": "Axo",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "HotTemperz",
+            "replace": "Tempy",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "0Spidi",
+            "replace": "Spidi",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "(kek|gen)tics",
+            "replace": "Gentics",
+            "isRegex": true,
+            "isCaseSensitive": false
+        },
+        {
+            "name": "RoaringIron",
+            "replace": "Roaring",
+            "isRegex": true,
+            "isCaseSensitive": false
         }
     ],
