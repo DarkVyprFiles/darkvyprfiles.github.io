@@ -97,12 +97,44 @@
             "func": "/w Supibot $check afk {1}"
         },
         {
-            "name": "/image",
-            "func": "https://darkvypr.cf/twitch/images/{1}.{2}"
+            "name": "/file",
+            "func": "https://files.darkvypr.cf/{1+}"
         },
         {
-            "name": "/file",
-            "func": "https://darkvypr.cf/twitch/files/{1}.{2}"
+            "name": "/cbackup",
+            "func": "https://files.darkvypr.cf/chatterino/{1+}"
+        },
+        {
+            "name": "/pings",
+            "func": "https://files.darkvypr.cf/pings.txt {1+}"
+        },
+        {
+            "name": "/rp",
+            "func": "/w supibot $remindprivate {1} {2+}"
+        },
+        {
+            "name": "/rmp",
+            "func": "/w supibot $remindme {1+}"
+        },
+        {
+            "name": "/rem",
+            "func": "/w supibot $remind {1} {2+}"
+        },
+        {
+            "name": "/sb",
+            "func": "/w supibot {1+}"
+        },
+        {
+            "name": "/image",
+            "func": "https://files.darkvypr.cf/i/{1+}"
+        },
+        {
+            "name": "/followbutton",
+            "func": "Tutorial: https://files.darkvypr.cf/follow.mp4 You need this extension too: https://bit.ly/3jHbcBp {1+}"
+        },
+        {
+            "name": "/backup",
+            "func": "https://files.darkvypr.cf/backups/{1+}"
         }
     ]
 }
