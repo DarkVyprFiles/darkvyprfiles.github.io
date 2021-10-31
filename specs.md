@@ -2,19 +2,15 @@
 
 PARTS LIST: https://ca.pcpartpicker.com/list/ydmckX
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 MOTHERBOARD: Asus ROG Z390-E
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 CPU: Intel I9-9900k (OC'd to 5.0 GHz at 3.4 volts)
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 GPU: NVIDIA FOUNDERS 2070 SUPER (OC'ed)
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 RAM: 32 GB GSKILL TRIDENT Z @ 3200 MHz
 
@@ -24,7 +20,9 @@ RAM: 32 GB GSKILL TRIDENT Z @ 3200 MHz
 
 SSD #1: Samsung 970 EVO 500 GB
 
+
 SSD #2: Sabrent Rocket NVMe 1 TB
+
 
 SSHD: Segate 2 TB FireCuda Solid State Hard Drive
 
@@ -36,15 +34,30 @@ SSHD: Segate 2 TB FireCuda Solid State Hard Drive
 
 CASE: Glorious GMMK Tenkeyless
 
+
 SWITCHES: Gateron Hippo Linear Switches (lubed with Krytox 205g0)
+
 
 KEYCAPS: GPBT (Ocean)
 
+
 STABS: Shitty ones from Glorious (also lubed with 205g0)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# AUDIO
+
+HEADPHONES: Beyerdynamic DT 770 (250Ω)
+
+
+MIC: TONOR XLR Mic
+
+
+INTERFACE: Focusrite Scarlett Solo
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # OTHER
 
 MOUSE: Glorious Model O Matte Black
+
 
 MONITORS: Dell S2417DG (x2) (one in portrait mode)
