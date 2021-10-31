@@ -1,7 +1,8 @@
 # PC SPECS
 
-PARTS LIST: https://ca.pcpartpicker.com/list/ydmckX
+<a href="https://ca.pcpartpicker.com/list/ydmckX">PARTS LIST</a>
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 MOTHERBOARD: Asus ROG Z390-E
 
