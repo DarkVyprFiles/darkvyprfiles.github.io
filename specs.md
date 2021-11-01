@@ -39,7 +39,7 @@ SSHD: Segate 2 TB FireCuda Solid State Hard Drive
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # KEYBOARD
 
-<img src="https://github.com/DarkVyprFiles/darkvyprfiles.github.io/blob/main/i/keyboard.jpg?raw=true" width="403.2" height="302.4" />
+<img src="https://github.com/DarkVyprImages/darkvyprimages.github.io/blob/main/keyboard.jpg?raw=true" width="403.2" height="302.4" />
 
 
 CASE: Glorious GMMK Tenkeyless
