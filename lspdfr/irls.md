@@ -68,4 +68,10 @@ Open the .zip file using the <a href="https://en.wikipedia.org/wiki/File_archive
 <br>
 </p>
 
-<a href="https://www.lcpdfr.com/profile/449994-darkvypr/"><img src="https://s3-screenshots.int-cdn.lcpdfrusercontent.com/monthly_2019_02/frlogo.png.4027faac813ec4b7da555ea910fd5bda.png" width="600></a>
+---
+
+<p align="center">
+<a href="https://www.lcpdfr.com/profile/449994-darkvypr/">
+  <img src="https://s3-screenshots.int-cdn.lcpdfrusercontent.com/monthly_2019_02/frlogo.png.4027faac813ec4b7da555ea910fd5bda.png" alt="My LSPDFR Profile :)" width="128" height="128" style="display: flex; justify-content: center;">
+</a>
+</p>
