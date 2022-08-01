@@ -1,6 +1,6 @@
 <h1 align="center">💻  Infinite RAGE Loading Screen  ♾️</h1>
 
-## 🔔 - Disclaimer:
+## 🔔 Disclaimer:
 <p align="center">
 <br>
 This will erase all mods inside <b>update.rpf & update2.rpf</b>. Mods like: <a href="https://www.gta5-mods.com/misc/visualv">VisualV</a>, <a href="https://www.gta5-mods.com/misc/gta-5-gameconfig-300-cars">all gameconfig.xml's</a>, any vehicles.meta changes, and <a href="https://www.lcpdfr.com/downloads/gta5mods/datafile/9357-radiance-v/">RadianceV</a> will all be deleted, so <b>take a running tally of all mods in your rpf's.</b>
@@ -8,7 +8,7 @@ This will erase all mods inside <b>update.rpf & update2.rpf</b>. Mods like: <a h
 <br>
 </p>
 
-## 🔙 - Optional Backup:
+## 🔙 Optional Backup:
 
 <p align="center">
 Drag the <b>update.rpf AND update2.rpf</b> from <code>Grand Theft Auto V\mods\update</code> onto your <b>Desktop</b>, thus making a backup of them (if you don't have <b>update2.rpf</b> that is fine).
@@ -16,7 +16,7 @@ Drag the <b>update.rpf AND update2.rpf</b> from <code>Grand Theft Auto V\mods\up
 <br>
 </p>
 
-## 📃- Instructions:
+## 📃 Instructions:
 
 <p align="center">
 <br>
