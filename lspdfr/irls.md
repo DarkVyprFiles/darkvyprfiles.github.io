@@ -3,7 +3,7 @@
 ## 🔔 Disclaimer:
 <p align="center">
 <br>
-This will erase all mods inside <b>update.rpf & update2.rpf</b>. Mods like: <a href="https://www.gta5-mods.com/misc/visualv">VisualV</a>, <a href="https://www.gta5-mods.com/misc/gta-5-gameconfig-300-cars">all gameconfig.xml's</a>, any vehicles.meta changes, and <a href="https://www.lcpdfr.com/downloads/gta5mods/datafile/9357-radiance-v/">RadianceV</a> will all be deleted, so <b>take a running tally of all mods in your rpf's.</b>
+This will erase all mods inside <b>update.rpf & update2.rpf</b>. Mods like: <a href="https://www.gta5-mods.com/misc/visualv" target="_blank">VisualV</a>, <a href="https://www.gta5-mods.com/misc/gta-5-gameconfig-300-cars">all gameconfig.xml's</a>, any vehicles.meta changes, and <a href="https://www.lcpdfr.com/downloads/gta5mods/datafile/9357-radiance-v/" target="_blank">RadianceV</a> will all be deleted, so <b>take a running tally of all mods in your rpf's.</b>
 <br>
 <br>
 </p>
@@ -32,16 +32,16 @@ Drag the <b>update.rpf AND update2.rpf</b> from <code>Grand Theft Auto V\mods\up
 🔁📂- Drag the <code>update.rpf</code> AND <code>update2.rpf</code> <b>from the New Folder you previously created on your Desktop,</b> into your <code>Grand Theft Auto V\mods\update</code> folder.
 <br>
 <br>
-ℹ️📽️- <a href="https://i.darkvypr.com/replacing-update-rpf.mp4">Click me for a video tutorial.</a>
+ℹ️📽️- <a href="https://i.darkvypr.com/replacing-update-rpf.mp4" target="_blank">Click me for a video tutorial.</a>
 <br>
 <br>
-⚙️📝- Install a <a href="https://www.gta5-mods.com/misc/gta-5-gameconfig-300-cars">custom gameconfig.xml.</a>
+⚙️📝- Install a <a href="https://www.gta5-mods.com/misc/gta-5-gameconfig-300-cars" target="_blank">custom gameconfig.xml.</a>
 <br>
 <br>
-🔃Ⓜ️ - Update <a href="https://www.lcpdfr.com/downloads/gta5mods/misc/25437-lennys-mod-loader/">Lenny's Mod Loader</a> (if you have it),
+🔃Ⓜ️ - Update <a href="https://www.lcpdfr.com/downloads/gta5mods/misc/25437-lennys-mod-loader/" target="_blank">Lenny's Mod Loader</a> (if you have it),
 <br>
 <br>
-📜🪛 - Install this <a href="https://www.gta5-mods.com/tools/heapadjuster">Heap Adjuster</a>, and this <a href="https://www.gta5-mods.com/tools/packfile-limit-adjuster">Packfile Limit Asjuster</a>.
+📜🪛 - Install this <a href="https://www.gta5-mods.com/tools/heapadjuster" target="_blank">Heap Adjuster</a>, and this <a href="https://www.gta5-mods.com/tools/packfile-limit-adjuster" target="_blank">Packfile Limit Asjuster</a>.
 <br>
 <br>
 </p>
@@ -49,10 +49,10 @@ Drag the <b>update.rpf AND update2.rpf</b> from <code>Grand Theft Auto V\mods\up
 ## 🧩 Precautionary Steps:
 
 <p align="center">
-For some reason, nobody has a up-to-date <b>RAGENativeUI.dll</b>. Open <a href="https://github.com/alexguirre/RAGENativeUI/releases">this link</a>, then under the <b>LATEST RELEASE</b> click on <b>RAGENativeUI.zip</b>. It should download.
+For some reason, nobody has a up-to-date <b>RAGENativeUI.dll</b>. Open <a href="https://github.com/alexguirre/RAGENativeUI/releases" target="_blank">this link</a>, then under the <b>LATEST RELEASE</b> click on <b>RAGENativeUI.zip</b>. It should download.
 <br>
 <br>
-Open the .zip file using the <a href="https://en.wikipedia.org/wiki/File_archiver">file archiver</a> of your choice. Drag <b>RAGENativeUI.dll</b> from the .zip, into your GTAV root. Click replace if prompted.
+Open the .zip file using the <a href="https://en.wikipedia.org/wiki/File_archiver" target="_blank">file archiver</a> of your choice. Drag <b>RAGENativeUI.dll</b> from the .zip, into your GTAV root. Click replace if prompted.
 <br>
 <br>
 </p>
@@ -71,7 +71,7 @@ Open the .zip file using the <a href="https://en.wikipedia.org/wiki/File_archive
 ---
 
 <p align="center">
-<a href="https://www.lcpdfr.com/profile/449994-darkvypr/">
+<a href="https://www.lcpdfr.com/profile/449994-darkvypr/" target="_blank">
   <img src="https://s3-screenshots.int-cdn.lcpdfrusercontent.com/monthly_2019_02/frlogo.png.4027faac813ec4b7da555ea910fd5bda.png" alt="My LSPDFR Profile :)" width="128" height="128" style="display: flex; justify-content: center;">
 </a>
 </p>
