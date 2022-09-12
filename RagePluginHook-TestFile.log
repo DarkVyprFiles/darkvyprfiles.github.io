@@ -1,0 +1,930 @@
+[5/09/2022 6:28:42 PM.808] Started new log on 5/09/2022 6:28:42 PM.808
+[5/09/2022 6:28:42 PM.811] ====================================================================================================
+[5/09/2022 6:28:42 PM.802] Log path: D:\Epic Games\Games\GTAV\RagePluginHook.log
+[5/09/2022 6:28:42 PM.812] Log verbosity: Trivial
+[5/09/2022 6:28:42 PM.818] Initializing input system
+[5/09/2022 6:28:42 PM.826] Initializing game console
+[5/09/2022 6:28:42 PM.843] Console key has been set to F4 (key code: 115)
+[5/09/2022 6:28:43 PM.147] Initializing console variable "ConsoleScrollAmount".
+[5/09/2022 6:28:43 PM.147] Type: System.Int32, Reading section: "Miscellaneous", key: ConsoleScrollAmount
+[5/09/2022 6:28:43 PM.172] Read value: <null>
+[5/09/2022 6:28:43 PM.172] Initializing console variable "ConsoleKey".
+[5/09/2022 6:28:43 PM.172] Type: System.Windows.Forms.Keys, Reading section: "Miscellaneous", key: ConsoleKey
+[5/09/2022 6:28:43 PM.176] Read value: F4
+[5/09/2022 6:28:43 PM.176] Setting value of console variable "ConsoleKey" to stored value.
+[5/09/2022 6:28:43 PM.176] Console key has been set to F4 (key code: 115)
+[5/09/2022 6:28:43 PM.176] Initializing console variable "PluginTimeoutThreshold".
+[5/09/2022 6:28:43 PM.176] Type: System.Int32, Reading section: "Miscellaneous", key: PluginTimeoutThreshold
+[5/09/2022 6:28:43 PM.184] Read value: 60000
+[5/09/2022 6:28:43 PM.184] Setting value of console variable "PluginTimeoutThreshold" to stored value.
+[5/09/2022 6:28:43 PM.184] Initializing console variable "AlwaysShowConsoleOutput".
+[5/09/2022 6:28:43 PM.184] Type: System.Boolean, Reading section: "Miscellaneous", key: AlwaysShowConsoleOutput
+[5/09/2022 6:28:43 PM.186] Read value: <null>
+[5/09/2022 6:28:43 PM.186] Initializing console variable "ShowConsoleCommandInfoOnPluginLoad".
+[5/09/2022 6:28:43 PM.186] Type: System.Boolean, Reading section: "Miscellaneous", key: ShowConsoleCommandInfoOnPluginLoad
+[5/09/2022 6:28:43 PM.188] Read value: False
+[5/09/2022 6:28:43 PM.188] Setting value of console variable "ShowConsoleCommandInfoOnPluginLoad" to stored value.
+[5/09/2022 6:28:43 PM.188] Initializing console variable "ShowOnScreenWarnings".
+[5/09/2022 6:28:43 PM.188] Type: System.Boolean, Reading section: "Miscellaneous", key: ShowOnScreenWarnings
+[5/09/2022 6:28:43 PM.189] Read value: <null>
+[5/09/2022 6:28:43 PM.189] Console initialized
+[5/09/2022 6:28:43 PM.189] Initializing forms manager
+[5/09/2022 6:28:43 PM.206] Cleaning temp folder
+[5/09/2022 6:28:43 PM.210] Version: RAGE Plugin Hook v1.96.1311.16366 for Grand Theft Auto V
+[5/09/2022 6:28:43 PM.251] ================ RAGE Plugin Hook ================
+[9/5/2022 6:28:43 PM.269] Detected Windows 10 Home (64-bit) (10.0.19044.0)!
+[9/5/2022 6:28:43 PM.271] Checking game support
+[9/5/2022 6:28:44 PM.115] Product name: Grand Theft Auto V
+[9/5/2022 6:28:44 PM.118] Product version: 1.0.2699.0
+[9/5/2022 6:28:44 PM.118] Is steam version: False
+[9/5/2022 6:28:44 PM.123] Initializing DirectX
+[9/5/2022 6:28:44 PM.130] Initializing Direct3D
+[9/5/2022 6:28:44 PM.130] Getting game swap chain
+[9/5/2022 6:28:44 PM.254] Swap Chain created: 0x7FF617F3A258
+[9/5/2022 6:28:44 PM.254] Swap Chain VTable: 0x1C17E059C70
+[9/5/2022 6:28:44 PM.254] 0x748948FFFEBFCEE9;0x8D48564157552024;0x170EC814890246C
+[9/5/2022 6:28:44 PM.254] D3D11Present: 0x7FFBB2755000
+[9/5/2022 6:28:44 PM.256] D3D11ResizeBuffers: 0x7FFBB2774490
+[9/5/2022 6:28:44 PM.256] D3D11ResizeTarget: 0x7FFBB27BACB0
+[9/5/2022 6:28:44 PM.256] D3D11SetFullscreenState: 0x7FFBB2774AC0
+[9/5/2022 6:28:44 PM.258] Direct3D initialized
+[9/5/2022 6:28:44 PM.260] Initialized DirectX
+[9/5/2022 6:28:44 PM.260] Getting device
+[9/5/2022 6:28:44 PM.260] Retrieved device
+[9/5/2022 6:28:44 PM.260] Creating wrapper
+[9/5/2022 6:28:44 PM.263] Direct3D watcher thread spawned
+[9/5/2022 6:28:44 PM.428] Wrapper created
+[9/5/2022 6:28:44 PM.439] Effect created
+[9/5/2022 6:28:44 PM.439] Creating buffer
+[9/5/2022 6:28:44 PM.439] Created buffer
+[9/5/2022 6:28:44 PM.439] Creating blend state
+[9/5/2022 6:28:44 PM.439] Created blend state
+[9/5/2022 6:28:44 PM.439] Done with creation
+[9/5/2022 6:28:44 PM.561] Initializing texture system.
+[9/5/2022 6:28:44 PM.562] Initializing texture system; phase 1
+[9/5/2022 6:28:44 PM.562] Initializing texture system; phase 2
+[9/5/2022 6:28:44 PM.577] Initializing texture system; phase 3
+[9/5/2022 6:28:44 PM.578] Initializing texture system; phase 4
+[9/5/2022 6:28:44 PM.601] Initializing texture system; phase 5
+[9/5/2022 6:28:44 PM.604] Initializing texture system; phase 6
+[9/5/2022 6:28:44 PM.606] Initializing texture system; phase 7
+[9/5/2022 6:28:44 PM.611] Initializing texture system; phase 8
+[9/5/2022 6:28:44 PM.613] Initializing texture system; phase 9
+[9/5/2022 6:28:44 PM.615] Initializing texture system; phase 10
+[9/5/2022 6:28:44 PM.622] Initializing texture system; phase 11
+[9/5/2022 6:28:44 PM.622] Initializing texture system; phase 12
+[9/5/2022 6:28:44 PM.625] Initializing texture system; phase 13
+[9/5/2022 6:28:44 PM.625] Initializing texture system; phase 14
+[9/5/2022 6:28:49 PM.265] Direct3D watcher thread ended
+[9/5/2022 6:29:21 PM.209] LoadingScreenMsg: Initializing game support
+[9/5/2022 6:29:21 PM.462] Initializing game support
+[9/5/2022 6:29:28 PM.734] LoadingScreenMsg: Velocity limit removed
+[9/5/2022 6:29:29 PM.184] Compatibility level: 0
+[9/5/2022 6:29:29 PM.184] Supported version detected
+[9/5/2022 6:29:29 PM.184] ==================================================
+[9/5/2022 6:29:29 PM.184] LoadingScreenMsg: Patching code
+[9/5/2022 6:29:29 PM.461] LoadingScreenMsg: Waiting for game initialization
+[9/5/2022 6:29:29 PM.712] Waiting for game initialization
+[9/5/2022 6:29:29 PM.813] LoadingScreenMsg: Initializing core
+[9/5/2022 6:29:30 PM.063] Initializing hook
+[9/5/2022 6:29:35 PM.136] LoadingScreenMsg: Completing interoperability
+[9/5/2022 6:29:35 PM.386] Completing interoperability
+[9/5/2022 6:29:35 PM.387] Initialization code 1.
+[9/5/2022 6:29:35 PM.393] Initialization code 2.
+[9/5/2022 6:29:35 PM.394] Initialization code 3.
+[9/5/2022 6:29:35 PM.427] 1 Address: 0x00007FF615C0EF10
+[9/5/2022 6:29:35 PM.428] Calling func 1
+[9/5/2022 6:29:35 PM.486] 2 Address: 0x00007FF6167AE882
+[9/5/2022 6:29:35 PM.486] 3 Address: 0x00007FF6151D5EC2
+[9/5/2022 6:29:35 PM.570] Address: 0x00007FF6167AE82C
+[9/5/2022 6:29:35 PM.571] Unknown var: 0x00007FF61792B850
+[9/5/2022 6:29:35 PM.571] Initialization code 4.
+[9/5/2022 6:29:35 PM.571] Initialization code 5.
+[9/5/2022 6:29:35 PM.571] Completing interoperability, phase 1
+[9/5/2022 6:29:35 PM.571] Completing interoperability, phase 2
+[9/5/2022 6:29:35 PM.571] Completing interoperability, phase 3
+[9/5/2022 6:29:35 PM.571] Completing interoperability, phase 4
+[9/5/2022 6:29:35 PM.571] Completing interoperability, phase 5
+[9/5/2022 6:29:35 PM.571] Completing interoperability, phase 6
+[9/5/2022 6:29:35 PM.571] Completing interoperability, phase 7
+[9/5/2022 6:29:35 PM.571] LoadingScreenMsg: 
+[9/5/2022 6:29:35 PM.823] LoadingScreenMsg: Loading Story Mode
+[9/5/2022 6:29:38 PM.987] LoadingScreenMsg: Loading and Populating Game World
+[9/5/2022 6:29:39 PM.239] LoadingScreenMsg: 
+[9/5/2022 6:30:34 PM.151] Initializing console variable "IsDeveloperModeEnabled".
+[9/5/2022 6:30:34 PM.151] Type: System.Boolean, Reading section: "Miscellaneous", key: IsDeveloperModeEnabled
+[9/5/2022 6:30:34 PM.152] Read value: <null>
+[9/5/2022 6:30:34 PM.152] Initializing console variable "TimeScale".
+[9/5/2022 6:30:34 PM.152] Type: System.Single, Reading section: "Miscellaneous", key: TimeScale
+[9/5/2022 6:30:34 PM.154] Read value: <null>
+[9/5/2022 6:30:34 PM.194] Loading plugin from path: D:\Epic Games\Games\GTAV\Plugins\EUPMenu.dll
+[9/5/2022 6:30:41 PM.730] <UNLOADED PLUGIN>: Initializing input system
+[9/5/2022 6:30:41 PM.734] <UNLOADED PLUGIN>: Initializing game console
+[9/5/2022 6:30:41 PM.740] <UNLOADED PLUGIN>: Initializing forms manager
+[9/5/2022 6:30:42 PM.073] Plugin "EUP Menu" was loaded from "EUPMenu.dll".
+[9/5/2022 6:30:42 PM.078] Loading plugin from path: D:\Epic Games\Games\GTAV\Plugins\LSPD First Response.dll
+[9/5/2022 6:30:49 PM.583] <UNLOADED PLUGIN>: Initializing input system
+[9/5/2022 6:30:49 PM.586] <UNLOADED PLUGIN>: Initializing game console
+[9/5/2022 6:30:49 PM.591] <UNLOADED PLUGIN>: Initializing forms manager
+[9/5/2022 6:30:49 PM.982] Plugin "LSPD First Response" was loaded from "LSPD First Response.dll".
+[9/5/2022 6:30:49 PM.986] Loading plugin from path: D:\Epic Games\Games\GTAV\Plugins\StickyWheels.dll
+[9/5/2022 6:30:56 PM.974] <UNLOADED PLUGIN>: Initializing input system
+[9/5/2022 6:30:56 PM.976] <UNLOADED PLUGIN>: Initializing game console
+[9/5/2022 6:30:56 PM.980] <UNLOADED PLUGIN>: Initializing forms manager
+[9/5/2022 6:30:57 PM.039] Plugin "StickyWheels" was loaded from "StickyWheels.dll".
+[9/5/2022 6:30:57 PM.759] LSPD First Response: [TRACE] Started loading LSPDFR
+[9/5/2022 6:30:57 PM.761] LSPD First Response: [INFO] Running LSPD First Response 0.4.9 (0.4.8242.35949)
+[9/5/2022 6:30:57 PM.763] LSPD First Response: [INFO] Compiled on 26 Jul 2022 23:58:18 UTC
+[9/5/2022 6:30:57 PM.763] LSPD First Response: [INFO] Copyright © 2015-2020, G17 Media, www.lspdfr.com
+[9/5/2022 6:31:26 PM.226] LSPD First Response: [TRACE] Thread CopManager #1 initialized
+[9/5/2022 6:32:36 PM.273] LSPD First Response: [TRACE] Game has stopped loading
+[9/5/2022 6:32:39 PM.087] LSPD First Response: [WARN] Path without extension: lspdfr/data/custom
+[9/5/2022 6:32:39 PM.101] LSPD First Response: [WARN] Path without extension: lspdfr/data/custom
+[9/5/2022 6:32:39 PM.109] LSPD First Response: [TRACE] ExpandableFileParser::Parse: Reading content from file:lspdfr/data/outfits.xml
+[9/5/2022 6:32:39 PM.392] LSPD First Response: [WARN] No name for outfit variation at line 23
+[9/5/2022 6:32:39 PM.392] LSPD First Response: [WARN] No name for outfit variation at line 31
+[9/5/2022 6:32:39 PM.392] LSPD First Response: [WARN] No name for outfit variation at line 39
+[9/5/2022 6:32:39 PM.392] LSPD First Response: [WARN] No name for outfit variation at line 64
+[9/5/2022 6:32:39 PM.392] LSPD First Response: [WARN] No name for outfit variation at line 72
+[9/5/2022 6:32:39 PM.393] LSPD First Response: [WARN] No name for outfit variation at line 80
+[9/5/2022 6:32:39 PM.393] LSPD First Response: [WARN] No name for outfit variation at line 111
+[9/5/2022 6:32:39 PM.393] LSPD First Response: [WARN] No name for outfit variation at line 138
+[9/5/2022 6:32:39 PM.395] LSPD First Response: [WARN] No name for outfit variation at line 174
+[9/5/2022 6:32:39 PM.395] LSPD First Response: [WARN] No name for outfit variation at line 207
+[9/5/2022 6:32:39 PM.395] LSPD First Response: [WARN] No name for outfit variation at line 220
+[9/5/2022 6:32:39 PM.395] LSPD First Response: [WARN] No name for outfit variation at line 259
+[9/5/2022 6:32:39 PM.395] LSPD First Response: [WARN] No name for outfit variation at line 273
+[9/5/2022 6:32:39 PM.395] LSPD First Response: [WARN] No name for outfit variation at line 309
+[9/5/2022 6:32:39 PM.395] LSPD First Response: [WARN] No name for outfit variation at line 323
+[9/5/2022 6:32:39 PM.396] LSPD First Response: [WARN] No name for outfit variation at line 363
+[9/5/2022 6:32:39 PM.396] LSPD First Response: [WARN] No name for outfit variation at line 391
+[9/5/2022 6:32:39 PM.396] LSPD First Response: [WARN] No name for outfit variation at line 425
+[9/5/2022 6:32:39 PM.396] LSPD First Response: [WARN] No name for outfit variation at line 453
+[9/5/2022 6:32:39 PM.396] LSPD First Response: [WARN] No name for outfit variation at line 484
+[9/5/2022 6:32:39 PM.396] LSPD First Response: [WARN] No name for outfit variation at line 502
+[9/5/2022 6:32:39 PM.396] LSPD First Response: [WARN] No name for outfit variation at line 529
+[9/5/2022 6:32:39 PM.396] LSPD First Response: [WARN] No name for outfit variation at line 547
+[9/5/2022 6:32:39 PM.396] LSPD First Response: [WARN] No name for outfit variation at line 581
+[9/5/2022 6:32:39 PM.397] LSPD First Response: [WARN] No name for outfit variation at line 615
+[9/5/2022 6:32:39 PM.397] LSPD First Response: [WARN] No name for outfit variation at line 650
+[9/5/2022 6:32:39 PM.397] LSPD First Response: [WARN] No name for outfit variation at line 677
+[9/5/2022 6:32:39 PM.397] LSPD First Response: [WARN] No name for outfit variation at line 711
+[9/5/2022 6:32:39 PM.397] LSPD First Response: [WARN] No name for outfit variation at line 741
+[9/5/2022 6:32:39 PM.398] LSPD First Response: [WARN] Path without extension: lspdfr/data/custom
+[9/5/2022 6:32:39 PM.399] LSPD First Response: [WARN] Path without extension: lspdfr/data/custom
+[9/5/2022 6:32:39 PM.399] LSPD First Response: [TRACE] ExpandableFileParser::Parse: Reading content from file:lspdfr/data/cop_presets_outfits.xml
+[9/5/2022 6:32:39 PM.404] LSPD First Response: [WARN] No gender specified for outfit variation Officer at line 11, defaulting to male
+[9/5/2022 6:32:39 PM.404] LSPD First Response: [WARN] No name for outfit variation at line 25
+[9/5/2022 6:32:39 PM.404] LSPD First Response: [WARN] No gender specified for outfit variation Officer III+1 at line 25, defaulting to male
+[9/5/2022 6:32:39 PM.405] LSPD First Response: [WARN] No name for outfit variation at line 32
+[9/5/2022 6:32:39 PM.405] LSPD First Response: [WARN] No gender specified for outfit variation Detective at line 32, defaulting to male
+[9/5/2022 6:32:39 PM.405] LSPD First Response: [WARN] No name for outfit variation at line 39
+[9/5/2022 6:32:39 PM.405] LSPD First Response: [WARN] No gender specified for outfit variation Armored Officer at line 39, defaulting to male
+[9/5/2022 6:32:39 PM.405] LSPD First Response: [WARN] No name for outfit variation at line 47
+[9/5/2022 6:32:39 PM.405] LSPD First Response: [WARN] No gender specified for outfit variation Armored Officer III+1 at line 47, defaulting to male
+[9/5/2022 6:32:39 PM.405] LSPD First Response: [WARN] No name for outfit variation at line 56
+[9/5/2022 6:32:39 PM.405] LSPD First Response: [WARN] No gender specified for outfit variation Armored Detective at line 56, defaulting to male
+[9/5/2022 6:32:39 PM.405] LSPD First Response: [WARN] No gender specified for outfit variation Officer at line 71, defaulting to male
+[9/5/2022 6:32:39 PM.405] LSPD First Response: [WARN] No name for outfit variation at line 85
+[9/5/2022 6:32:39 PM.405] LSPD First Response: [WARN] No gender specified for outfit variation Officer III at line 85, defaulting to male
+[9/5/2022 6:32:39 PM.405] LSPD First Response: [WARN] No name for outfit variation at line 92
+[9/5/2022 6:32:39 PM.405] LSPD First Response: [WARN] No gender specified for outfit variation Armored Officer at line 92, defaulting to male
+[9/5/2022 6:32:39 PM.405] LSPD First Response: [WARN] No name for outfit variation at line 100
+[9/5/2022 6:32:39 PM.405] LSPD First Response: [WARN] No gender specified for outfit variation Armored Officer III at line 100, defaulting to male
+[9/5/2022 6:32:39 PM.405] LSPD First Response: [WARN] No gender specified for outfit variation Officer at line 115, defaulting to male
+[9/5/2022 6:32:39 PM.405] LSPD First Response: [WARN] No name for outfit variation at line 129
+[9/5/2022 6:32:39 PM.405] LSPD First Response: [WARN] No gender specified for outfit variation Officer III+1 at line 129, defaulting to male
+[9/5/2022 6:32:39 PM.406] LSPD First Response: [WARN] No name for outfit variation at line 136
+[9/5/2022 6:32:39 PM.406] LSPD First Response: [WARN] No gender specified for outfit variation Detective at line 136, defaulting to male
+[9/5/2022 6:32:39 PM.406] LSPD First Response: [WARN] No name for outfit variation at line 143
+[9/5/2022 6:32:39 PM.406] LSPD First Response: [WARN] No gender specified for outfit variation Armored Officer at line 143, defaulting to male
+[9/5/2022 6:32:39 PM.406] LSPD First Response: [WARN] No name for outfit variation at line 151
+[9/5/2022 6:32:39 PM.406] LSPD First Response: [WARN] No gender specified for outfit variation Armored Officer III+1 at line 151, defaulting to male
+[9/5/2022 6:32:39 PM.406] LSPD First Response: [WARN] No name for outfit variation at line 160
+[9/5/2022 6:32:39 PM.406] LSPD First Response: [WARN] No gender specified for outfit variation Armored Detective at line 160, defaulting to male
+[9/5/2022 6:32:39 PM.406] LSPD First Response: [WARN] No gender specified for outfit variation Officer at line 175, defaulting to male
+[9/5/2022 6:32:39 PM.406] LSPD First Response: [WARN] No name for outfit variation at line 189
+[9/5/2022 6:32:39 PM.406] LSPD First Response: [WARN] No gender specified for outfit variation Officer III at line 189, defaulting to male
+[9/5/2022 6:32:39 PM.406] LSPD First Response: [WARN] No name for outfit variation at line 196
+[9/5/2022 6:32:39 PM.406] LSPD First Response: [WARN] No gender specified for outfit variation Armored Officer at line 196, defaulting to male
+[9/5/2022 6:32:39 PM.407] LSPD First Response: [WARN] No name for outfit variation at line 204
+[9/5/2022 6:32:39 PM.407] LSPD First Response: [WARN] No gender specified for outfit variation Armored Officer III at line 204, defaulting to male
+[9/5/2022 6:32:39 PM.407] LSPD First Response: [WARN] No gender specified for outfit variation Officer at line 219, defaulting to male
+[9/5/2022 6:32:39 PM.408] LSPD First Response: [WARN] No name for outfit variation at line 233
+[9/5/2022 6:32:39 PM.408] LSPD First Response: [WARN] No gender specified for outfit variation Officer III+1 at line 233, defaulting to male
+[9/5/2022 6:32:39 PM.408] LSPD First Response: [WARN] No name for outfit variation at line 240
+[9/5/2022 6:32:39 PM.409] LSPD First Response: [WARN] No gender specified for outfit variation Detective at line 240, defaulting to male
+[9/5/2022 6:32:39 PM.409] LSPD First Response: [WARN] No name for outfit variation at line 247
+[9/5/2022 6:32:39 PM.409] LSPD First Response: [WARN] No gender specified for outfit variation Armored Officer at line 247, defaulting to male
+[9/5/2022 6:32:39 PM.409] LSPD First Response: [WARN] No name for outfit variation at line 255
+[9/5/2022 6:32:39 PM.409] LSPD First Response: [WARN] No gender specified for outfit variation Armored Officer III+1 at line 255, defaulting to male
+[9/5/2022 6:32:39 PM.409] LSPD First Response: [WARN] No name for outfit variation at line 264
+[9/5/2022 6:32:39 PM.409] LSPD First Response: [WARN] No gender specified for outfit variation Armored Detective at line 264, defaulting to male
+[9/5/2022 6:32:39 PM.409] LSPD First Response: [WARN] No gender specified for outfit variation Officer at line 279, defaulting to male
+[9/5/2022 6:32:39 PM.409] LSPD First Response: [WARN] No name for outfit variation at line 293
+[9/5/2022 6:32:39 PM.409] LSPD First Response: [WARN] No gender specified for outfit variation Officer III at line 293, defaulting to male
+[9/5/2022 6:32:39 PM.409] LSPD First Response: [WARN] No name for outfit variation at line 300
+[9/5/2022 6:32:39 PM.409] LSPD First Response: [WARN] No gender specified for outfit variation Armored Officer at line 300, defaulting to male
+[9/5/2022 6:32:39 PM.409] LSPD First Response: [WARN] No name for outfit variation at line 308
+[9/5/2022 6:32:39 PM.409] LSPD First Response: [WARN] No gender specified for outfit variation Armored Officer III at line 308, defaulting to male
+[9/5/2022 6:32:39 PM.410] LSPD First Response: [WARN] No gender specified for outfit variation Officer at line 403, defaulting to male
+[9/5/2022 6:32:39 PM.410] LSPD First Response: [WARN] No gender specified for outfit variation Detective at line 418, defaulting to male
+[9/5/2022 6:32:39 PM.410] LSPD First Response: [WARN] No gender specified for outfit variation Commander at line 426, defaulting to male
+[9/5/2022 6:32:39 PM.410] LSPD First Response: [WARN] No gender specified for outfit variation Motor Patrol at line 440, defaulting to male
+[9/5/2022 6:32:39 PM.410] LSPD First Response: [WARN] No gender specified for outfit variation Motor Patrol at line 461, defaulting to male
+[9/5/2022 6:32:39 PM.410] LSPD First Response: [WARN] No gender specified for outfit variation Deputy at line 481, defaulting to male
+[9/5/2022 6:32:39 PM.410] LSPD First Response: [WARN] No name for outfit variation at line 494
+[9/5/2022 6:32:39 PM.410] LSPD First Response: [WARN] No gender specified for outfit variation Armored Deputy at line 494, defaulting to male
+[9/5/2022 6:32:39 PM.410] LSPD First Response: [WARN] No gender specified for outfit variation Deputy at line 507, defaulting to male
+[9/5/2022 6:32:39 PM.410] LSPD First Response: [WARN] No name for outfit variation at line 520
+[9/5/2022 6:32:39 PM.410] LSPD First Response: [WARN] No gender specified for outfit variation Armored Deputy at line 520, defaulting to male
+[9/5/2022 6:32:39 PM.410] LSPD First Response: [WARN] No gender specified for outfit variation Deputy at line 533, defaulting to male
+[9/5/2022 6:32:39 PM.410] LSPD First Response: [WARN] No name for outfit variation at line 546
+[9/5/2022 6:32:39 PM.410] LSPD First Response: [WARN] No gender specified for outfit variation Armored Deputy at line 546, defaulting to male
+[9/5/2022 6:32:39 PM.410] LSPD First Response: [WARN] No gender specified for outfit variation Deputy at line 559, defaulting to male
+[9/5/2022 6:32:39 PM.411] LSPD First Response: [WARN] No name for outfit variation at line 572
+[9/5/2022 6:32:39 PM.411] LSPD First Response: [WARN] No gender specified for outfit variation Armored Deputy at line 572, defaulting to male
+[9/5/2022 6:32:39 PM.411] LSPD First Response: [WARN] No gender specified for outfit variation Deputy at line 585, defaulting to male
+[9/5/2022 6:32:39 PM.411] LSPD First Response: [WARN] No name for outfit variation at line 598
+[9/5/2022 6:32:39 PM.411] LSPD First Response: [WARN] No gender specified for outfit variation Armored Deputy at line 598, defaulting to male
+[9/5/2022 6:32:39 PM.411] LSPD First Response: [WARN] No gender specified for outfit variation Deputy at line 611, defaulting to male
+[9/5/2022 6:32:39 PM.411] LSPD First Response: [WARN] No name for outfit variation at line 624
+[9/5/2022 6:32:39 PM.411] LSPD First Response: [WARN] No gender specified for outfit variation Armored Deputy at line 624, defaulting to male
+[9/5/2022 6:32:39 PM.411] LSPD First Response: [WARN] No name for outfit variation at line 732
+[9/5/2022 6:32:39 PM.412] LSPD First Response: [WARN] No name for outfit variation at line 764
+[9/5/2022 6:32:39 PM.412] LSPD First Response: [WARN] No name for outfit variation at line 796
+[9/5/2022 6:32:39 PM.412] LSPD First Response: [WARN] No name for outfit variation at line 828
+[9/5/2022 6:32:39 PM.412] LSPD First Response: [WARN] No name for outfit variation at line 951
+[9/5/2022 6:32:39 PM.412] LSPD First Response: [WARN] No name for outfit variation at line 976
+[9/5/2022 6:32:39 PM.412] LSPD First Response: [WARN] No name for outfit variation at line 1002
+[9/5/2022 6:32:39 PM.413] LSPD First Response: [WARN] No name for outfit variation at line 1028
+[9/5/2022 6:32:39 PM.413] LSPD First Response: [WARN] No name for outfit variation at line 1054
+[9/5/2022 6:32:39 PM.413] LSPD First Response: [WARN] No name for outfit variation at line 1133
+[9/5/2022 6:32:39 PM.413] LSPD First Response: [WARN] No name for outfit variation at line 1160
+[9/5/2022 6:32:39 PM.414] LSPD First Response: [WARN] No name for outfit variation at line 1187
+[9/5/2022 6:32:39 PM.414] LSPD First Response: [WARN] No name for outfit variation at line 1214
+[9/5/2022 6:32:39 PM.414] LSPD First Response: [WARN] No name for outfit variation at line 1241
+[9/5/2022 6:32:39 PM.414] LSPD First Response: [WARN] No name for outfit variation at line 1268
+[9/5/2022 6:32:39 PM.414] LSPD First Response: [WARN] No name for outfit variation at line 1297
+[9/5/2022 6:32:39 PM.414] LSPD First Response: [WARN] No name for outfit variation at line 1330
+[9/5/2022 6:32:39 PM.414] LSPD First Response: [WARN] No name for outfit variation at line 1363
+[9/5/2022 6:32:39 PM.414] LSPD First Response: [WARN] No name for outfit variation at line 1396
+[9/5/2022 6:32:39 PM.415] LSPD First Response: [TRACE] Loaded 10 freemode outfits and 55 preset outfits
+[9/5/2022 6:32:40 PM.965] LSPD First Response: [TRACE] Adding Ben J. as character
+[9/5/2022 6:32:41 PM.292] LSPD First Response: [TRACE] Adding Michelle Meto as character
+[9/5/2022 6:32:41 PM.294] LSPD First Response: [WARN] Path without extension: lspdfr/chars
+[9/5/2022 6:32:41 PM.294] LSPD First Response: [WARN] Path without extension: lspdfr/chars
+[9/5/2022 6:32:42 PM.083] LSPD First Response: [TRACE] Adding Sam Bara as character
+[9/5/2022 6:32:42 PM.103] LSPD First Response: [WARN] Path without extension: lspdfr/data/custom
+[9/5/2022 6:32:42 PM.103] LSPD First Response: [WARN] Path without extension: lspdfr/data/custom
+[9/5/2022 6:32:42 PM.104] LSPD First Response: [TRACE] ExpandableFileParser::Parse: Reading content from file:lspdfr/data/regions.xml
+[9/5/2022 6:32:42 PM.129] LSPD First Response: [WARN] Path without extension: lspdfr/data/custom
+[9/5/2022 6:32:42 PM.129] LSPD First Response: [WARN] Path without extension: lspdfr/data/custom
+[9/5/2022 6:32:42 PM.130] LSPD First Response: [TRACE] ExpandableFileParser::Parse: Reading content from file:lspdfr/data/backup.xml
+[9/5/2022 6:32:42 PM.165] LSPD First Response: [WARN] Path without extension: lspdfr/data/custom
+[9/5/2022 6:32:42 PM.166] LSPD First Response: [WARN] Path without extension: lspdfr/data/custom
+[9/5/2022 6:32:42 PM.168] LSPD First Response: [TRACE] ExpandableFileParser::Parse: Reading content from file:lspdfr/data/agency.xml
+[9/5/2022 6:32:42 PM.287] LSPD First Response: [WARN] Path without extension: lspdfr/data/custom
+[9/5/2022 6:32:42 PM.287] LSPD First Response: [WARN] Path without extension: lspdfr/data/custom
+[9/5/2022 6:32:42 PM.287] LSPD First Response: [TRACE] ExpandableFileParser::Parse: Reading content from file:lspdfr/data/inventory.xml
+[9/5/2022 6:32:42 PM.317] LSPD First Response: [TRACE] Failed to parse  as chance
+[9/5/2022 6:32:42 PM.332] LSPD First Response: [TRACE] Player was in vehicle: False
+[9/5/2022 6:32:42 PM.332] LSPD First Response: [TRACE] Last selected character was Sam Bara, should spawn as last character True
+[9/5/2022 6:32:42 PM.332] LSPD First Response: [TRACE] Loading last selected character Sam Bara
+[9/5/2022 6:32:42 PM.339] LSPD First Response: [INFO] Changing current player character to Sam Bara
+[9/5/2022 6:32:42 PM.385] LSPD First Response: [TRACE] Thread PedHistoryManager #1 initialized
+[9/5/2022 6:32:42 PM.386] LSPD First Response: [TRACE] Thread PlayerCharacterStatsManager #1 initialized
+[9/5/2022 6:32:42 PM.387] LSPD First Response: [TRACE] Thread GamePlayer #1 initialized
+[9/5/2022 6:32:43 PM.868] LSPD First Response: [TRACE] Cached 1416 decorators for index 3
+[9/5/2022 6:32:43 PM.889] LSPD First Response: [INFO] Player Persona voice is: s_m_y_cop_01_white_full_01
+[9/5/2022 6:32:43 PM.892] LSPD First Response: [TRACE] CharacterSelected: 14
+[9/5/2022 6:32:43 PM.894] LSPD First Response: [TRACE] Character changed, creating new stats object
+[9/5/2022 6:32:45 PM.464] LSPD First Response: [TRACE] Initialized telemtry service
+[9/5/2022 6:32:45 PM.598] LSPD First Response: We have 4 appartments registered
+[9/5/2022 6:32:45 PM.606] LSPD First Response: [TRACE] Finding Interior ID for 4 Integrity Way at: X:-15.76 Y:-606.24 Z:100.23
+[9/5/2022 6:32:45 PM.620] LSPD First Response: [TRACE] Initialised Apartment: 4 Integrity Way, Interior is 147969
+[9/5/2022 6:32:45 PM.622] LSPD First Response: [TRACE] Finding Interior ID for 1893 Grapeseed Ave at: X:264.853 Y:-1000.169 Z:-99.058
+[9/5/2022 6:32:45 PM.624] LSPD First Response: [TRACE] Initialised Apartment: 1893 Grapeseed Ave, Interior is 149761
+[9/5/2022 6:32:45 PM.626] LSPD First Response: [TRACE] Finding Interior ID for 0605 Spanish Ave at: X:347.1727 Y:-1001.406 Z:-99.1962
+[9/5/2022 6:32:45 PM.627] LSPD First Response: [TRACE] Initialised Apartment: 0605 Spanish Ave, Interior is 148225
+[9/5/2022 6:32:45 PM.630] LSPD First Response: [TRACE] Finding Interior ID for 2874 Hillcrest at: X:-859.5645 Y:688.7182 Z:152.8571
+[9/5/2022 6:32:45 PM.631] LSPD First Response: [TRACE] Initialised Apartment: 2874 Hillcrest, Interior is 207361
+[9/5/2022 6:32:45 PM.631] LSPD First Response: ApartmentManager initialized
+[9/5/2022 6:32:45 PM.639] LSPD First Response: [TRACE] Started new menu thread MenuBase #1
+[9/5/2022 6:32:45 PM.642] LSPD First Response: [TRACE] Started new menu thread MenuBase #2
+[9/5/2022 6:32:45 PM.646] LSPD First Response: [TRACE] Started new menu thread MenuBase #3
+[9/5/2022 6:32:45 PM.827] LSPD First Response: [TRACE] Thread DiscordRichPresence #1 initialized
+[9/5/2022 6:32:46 PM.523] LSPD First Response: [TRACE] Thread CheckpointManager #1 initialized
+[9/5/2022 6:32:46 PM.530] LSPD First Response: [TRACE] Thread ApartmentManager #1 initialized
+[9/5/2022 6:32:46 PM.532] LSPD First Response: [TRACE] Saved apt: 
+[9/5/2022 6:32:46 PM.569] LSPD First Response: [TRACE] Thread IntegrityWay435 #1 initialized
+[9/5/2022 6:32:46 PM.583] LSPD First Response: [TRACE] Thread Marker #1 initialized
+[9/5/2022 6:32:46 PM.729] LSPD First Response: [TRACE] Thread Marker #2 initialized
+[9/5/2022 6:32:46 PM.730] LSPD First Response: [TRACE] Thread SpanishAve0605 #1 initialized
+[9/5/2022 6:32:46 PM.730] LSPD First Response: [TRACE] Thread Marker #3 initialized
+[9/5/2022 6:32:46 PM.730] LSPD First Response: [TRACE] Thread Hillcrest2874 #1 initialized
+[9/5/2022 6:32:46 PM.730] LSPD First Response: [TRACE] Thread Marker #4 initialized
+[9/5/2022 6:32:46 PM.730] LSPD First Response: [TRACE] Thread MenuManager #1 initialized
+[9/5/2022 6:32:47 PM.115] LSPD First Response: [TRACE] Started new menu thread MenuBase #4
+[9/5/2022 6:32:47 PM.162] LSPD First Response: [TRACE] Started new menu thread MenuBase #5
+[9/5/2022 6:32:47 PM.186] LSPD First Response: [TRACE] Set title to Sam Bara for Interaction Menu
+[9/5/2022 6:32:47 PM.190] LSPD First Response: [TRACE] Started new menu thread MenuBase #6
+[9/5/2022 6:32:47 PM.200] LSPD First Response: [TRACE] Set title to Sam Bara for Police Radio
+[9/5/2022 6:32:47 PM.234] LSPD First Response: [TRACE] Started new menu thread MenuBase #7
+[9/5/2022 6:32:47 PM.245] LSPD First Response: [TRACE] Set title to Sam Bara for Vehicle Options
+[9/5/2022 6:32:47 PM.259] LSPD First Response: [TRACE] Started new menu thread MenuBase #8
+[9/5/2022 6:32:47 PM.264] LSPD First Response: [TRACE] Set title to Sam Bara for Inventory
+[9/5/2022 6:32:47 PM.269] LSPD First Response: [TRACE] Started new menu thread MenuBase #9
+[9/5/2022 6:32:47 PM.276] LSPD First Response: [TRACE] Set title to Sam Bara for Settings
+[9/5/2022 6:32:47 PM.289] LSPD First Response: [TRACE] Saved apt: 
+[9/5/2022 6:32:47 PM.478] LSPD First Response: [TRACE] Requested Audio
+[9/5/2022 6:32:47 PM.512] LSPD First Response: [TRACE] Thread CharacterCreation #1 initialized
+[9/5/2022 6:32:47 PM.557] LSPD First Response: [TRACE] Thread GrapeseedAve1893 #1 initialized
+[9/5/2022 6:32:49 PM.033] LSPD First Response: [INFO] Connecting to LSPDFR Sync
+[9/5/2022 6:32:49 PM.927] LSPD First Response: [WARN] Path without extension: lspdfr/data/custom
+[9/5/2022 6:32:49 PM.927] LSPD First Response: [WARN] Path without extension: lspdfr/data/custom
+[9/5/2022 6:32:49 PM.928] LSPD First Response: [TRACE] ExpandableFileParser::Parse: Reading content from file:lspdfr/data/stations.xml
+[9/5/2022 6:32:50 PM.003] LSPD First Response: [INFO] Vinewood Police Station
+[9/5/2022 6:32:50 PM.003] LSPD First Response: [INFO] Added new police station: Vinewood Police Station (LSPD) at X:638.5 Y:1.75 Z:82.8
+[9/5/2022 6:32:50 PM.005] LSPD First Response: [INFO] La Mesa Police Station
+[9/5/2022 6:32:50 PM.005] LSPD First Response: [INFO] Added new police station: La Mesa Police Station (LSPD) at X:826.8 Y:-1290 Z:28.24
+[9/5/2022 6:32:50 PM.005] LSPD First Response: [INFO] Rockford Hills Police Station
+[9/5/2022 6:32:50 PM.005] LSPD First Response: [INFO] Added new police station: Rockford Hills Police Station (LSPD) at X:-561.65 Y:-131.65 Z:38.21
+[9/5/2022 6:32:50 PM.006] LSPD First Response: [INFO] Vespucci Police Station
+[9/5/2022 6:32:50 PM.006] LSPD First Response: [INFO] Added new police station: Vespucci Police Station (LSPD) at X:-1108.18 Y:-845.18 Z:19.32
+[9/5/2022 6:32:50 PM.006] LSPD First Response: [INFO] Downtown Police Station
+[9/5/2022 6:32:50 PM.006] LSPD First Response: [INFO] Added new police station: Downtown Police Station (LSPD) at X:450.0654 Y:-993.0596 Z:30
+[9/5/2022 6:32:50 PM.006] LSPD First Response: [INFO] Davis Sheriff Station
+[9/5/2022 6:32:50 PM.006] LSPD First Response: [INFO] Added new police station: Davis Sheriff Station (LSSD) at X:360.97 Y:-1584.7 Z:29.29
+[9/5/2022 6:32:50 PM.006] LSPD First Response: [INFO] Sandy Shores Sheriff Station
+[9/5/2022 6:32:50 PM.006] LSPD First Response: [INFO] Added new police station: Sandy Shores Sheriff Station (LSSD) at X:1848.73 Y:3689.98 Z:34.27
+[9/5/2022 6:32:50 PM.007] LSPD First Response: [INFO] Paleto Bay Sheriff Station
+[9/5/2022 6:32:50 PM.007] LSPD First Response: [INFO] Added new police station: Paleto Bay Sheriff Station (LSSD) at X:-448.22 Y:6008.23 Z:31.72
+[9/5/2022 6:32:50 PM.007] LSPD First Response: [INFO] Beaver Bush Ranger Station
+[9/5/2022 6:32:50 PM.007] LSPD First Response: [INFO] Added new police station: Beaver Bush Ranger Station (SAPR) at X:379.31 Y:792.06 Z:190.41
+[9/5/2022 6:32:50 PM.007] LSPD First Response: [INFO] Los Santos Intl. Airport Field Office
+[9/5/2022 6:32:50 PM.007] LSPD First Response: [INFO] Added new police station: Los Santos Intl. Airport Field Office (NOOSE) at X:-864.61 Y:-2408.92 Z:14.03
+[9/5/2022 6:32:50 PM.008] LSPD First Response: [INFO] Bolingbroke Penitentiary
+[9/5/2022 6:32:50 PM.008] LSPD First Response: [INFO] Added new police station: Bolingbroke Penitentiary (SASPA) at X:1846.49 Y:2585.95 Z:45.67
+[9/5/2022 6:32:50 PM.040] LSPD First Response: [TRACE] Auto started component Debug #1
+[9/5/2022 6:32:50 PM.042] LSPD First Response: [TRACE] Auto started component AmbientBlips #1
+[9/5/2022 6:32:50 PM.042] LSPD First Response: [TRACE] Auto started component AmbientChases #1
+[9/5/2022 6:32:50 PM.045] LSPD First Response: [TRACE] Auto started component AmbientCombatControl #1
+[9/5/2022 6:32:50 PM.046] LSPD First Response: [TRACE] Auto started component AmbientGameStats #1
+[9/5/2022 6:32:50 PM.046] LSPD First Response: [TRACE] Auto started component AmbientOffDuty #1
+[9/5/2022 6:32:50 PM.047] LSPD First Response: [TRACE] Auto started component AmbientPhotoCamera #1
+[9/5/2022 6:32:50 PM.050] LSPD First Response: [TRACE] Auto started component AmbientGameScripts #1
+[9/5/2022 6:32:50 PM.051] LSPD First Response: [TRACE] Auto started component AmbientSitAnywhere #1
+[9/5/2022 6:32:50 PM.055] LSPD First Response: [TRACE] Auto started component AmbientSpawn #1
+[9/5/2022 6:32:50 PM.056] LSPD First Response: [TRACE] Auto started component AmbientSpawnScenarios #1
+[9/5/2022 6:32:50 PM.058] LSPD First Response: [TRACE] Auto started component GameStatsManager #1
+[9/5/2022 6:32:50 PM.060] LSPD First Response: [TRACE] Auto started component EvidenceMarkerManager #1
+[9/5/2022 6:32:50 PM.068] LSPD First Response: [TRACE] Auto started component GameEventManager #1
+[9/5/2022 6:32:50 PM.070] LSPD First Response: [TRACE] Preloading node data
+[9/5/2022 6:32:50 PM.934] LSPD First Response: [INFO] No cached credentials, no user login attempt will be made to LSPDFR Sync.
+[9/5/2022 6:32:50 PM.937] LSPD First Response: [TRACE] Checking for updates...
+[9/5/2022 6:32:50 PM.967] LSPD First Response: [TRACE] Terminal server version: 0.2
+[9/5/2022 6:32:50 PM.967] LSPD First Response: [INFO] Connected to LSPDFR Sync via session 54f637d7-a733-4340-bd65-ddf14b4cd5af. Enhanced features available.
+[9/5/2022 6:32:51 PM.040] LSPD First Response: [TRACE] Server has requested that we enable feature BaselineTelemetry
+[9/5/2022 6:32:51 PM.046] LSPD First Response: [TRACE] Server has requested that we enable feature LSPDFRSyncOnboarding
+[9/5/2022 6:32:51 PM.046] LSPD First Response: [TRACE] Server has requested that we enable feature PatreonPauseMenuItem
+[9/5/2022 6:32:51 PM.293] LSPD First Response: [TRACE] This version seems up to date.
+[9/5/2022 6:32:51 PM.294] LSPD First Response: [TRACE] This version: 0.4.8242.35949, Version available on server: 0.4.8242.35949
+[9/5/2022 6:32:55 PM.968] LSPD First Response: [TRACE] Building pathfinding data. Island: False
+[9/5/2022 6:33:04 PM.461] LSPD First Response: [TRACE] Done preloading node data
+[9/5/2022 6:33:04 PM.461] LSPD First Response: [TRACE] Preloading node data
+[9/5/2022 6:33:04 PM.463] LSPD First Response: [TRACE] Done preloading node data
+[9/5/2022 6:33:04 PM.472] LSPD First Response: [TRACE] SwitchToCharacter: Sam Bara
+[9/5/2022 6:33:04 PM.472] LSPD First Response: [TRACE] Switch mode is random
+[9/5/2022 6:33:04 PM.504] LSPD First Response: [TRACE] GamePlayer::ChangeCharacter: Same character
+[9/5/2022 6:33:04 PM.504] LSPD First Response: [TRACE] Saved apt: 
+[9/5/2022 6:33:04 PM.525] LSPD First Response: [TRACE] Entered apartment 4 Integrity Way
+[9/5/2022 6:33:12 PM.843] LSPD First Response: [TRACE] Thread AmbientBlips #1 initialized
+[9/5/2022 6:33:12 PM.864] LSPD First Response: [TRACE] Thread AmbientChases #1 initialized
+[9/5/2022 6:33:12 PM.867] LSPD First Response: [TRACE] Disabling ambient game police chases
+[9/5/2022 6:33:12 PM.890] LSPD First Response: [TRACE] Disabled ambient game police chases
+[9/5/2022 6:33:12 PM.891] LSPD First Response: [TRACE] Thread AmbientGameStats #1 initialized
+[9/5/2022 6:33:12 PM.897] LSPD First Response: [TRACE] Thread AmbientOffDuty #1 initialized
+[9/5/2022 6:33:12 PM.906] LSPD First Response: [TRACE] Thread AmbientPhotoCamera #1 initialized
+[9/5/2022 6:33:12 PM.906] LSPD First Response: [TRACE] Thread AmbientGameScripts #1 initialized
+[9/5/2022 6:33:14 PM.022] LSPD First Response: [TRACE] Thread AmbientSpawnScenarios #1 initialized
+[9/5/2022 6:33:14 PM.022] LSPD First Response: [TRACE] Thread GameStatsManager #1 initialized
+[9/5/2022 6:33:15 PM.148] LSPD First Response: [TRACE] Thread PauseMenu #1 initialized
+[9/5/2022 6:33:15 PM.153] LSPD First Response: [TRACE] Thread SamTesting #1 initialized
+[9/5/2022 6:33:15 PM.153] LSPD First Response: [TRACE] Thread CrimeEventManager #1 initialized
+[9/5/2022 6:33:15 PM.155] LSPD First Response: [TRACE] Thread Crime Manager #1 initialized
+[9/5/2022 6:33:15 PM.156] LSPD First Response: [TRACE] Thread ChaseMe #1 initialized
+[9/5/2022 6:33:15 PM.157] LSPD First Response: [TRACE] Thread TrafficStopManager #1 initialized
+[9/5/2022 6:33:15 PM.173] LSPD First Response: [TRACE] Thread PlayerChaseManager #1 initialized
+[9/5/2022 6:33:15 PM.186] LSPD First Response: [TRACE] Thread ScenarioManager #1 initialized
+[9/5/2022 6:33:15 PM.188] LSPD First Response: [TRACE] Thread PlayerDutyController #1 initialized
+[9/5/2022 6:33:15 PM.189] LSPD First Response: [TRACE] Thread PlayerDutyBehaviorController #1 initialized
+[9/5/2022 6:33:15 PM.192] LSPD First Response: [TRACE] Thread PoliceStationManager #1 initialized
+[9/5/2022 6:33:15 PM.251] LSPD First Response: [TRACE] Thread PoliceStationInterior #1 initialized
+[9/5/2022 6:33:15 PM.262] LSPD First Response: [TRACE] Thread Marker #5 initialized
+[9/5/2022 6:33:15 PM.263] LSPD First Response: [TRACE] Thread Debug #1 initialized
+[9/5/2022 6:33:15 PM.275] LSPD First Response: [TRACE] Thread AmbientCombatControl #1 initialized
+[9/5/2022 6:33:15 PM.276] LSPD First Response: [TRACE] Thread AmbientSitAnywhere #1 initialized
+[9/5/2022 6:33:15 PM.311] LSPD First Response: [TRACE] Thread AmbientSpawn #1 initialized
+[9/5/2022 6:33:15 PM.327] LSPD First Response: [TRACE] Thread EvidenceMarkerManager #1 initialized
+[9/5/2022 6:33:15 PM.338] LSPD First Response: [TRACE] Thread GameEventManager #1 initialized
+[9/5/2022 6:33:16 PM.850] LSPD First Response: [TRACE] Loaded Apartment: 4 Integrity Way, Interior is 147969
+[9/5/2022 6:33:17 PM.920] LSPD First Response: [TRACE] Shower: Prop Constructor Started
+[9/5/2022 6:33:17 PM.920] LSPD First Response: [TRACE] Shower: Prop Constructor Finished
+[9/5/2022 6:33:17 PM.956] LSPD First Response: [TRACE] Bed: Prop Constructor Started
+[9/5/2022 6:33:17 PM.956] LSPD First Response: [TRACE] Bed: Prop Constructor Finished
+[9/5/2022 6:33:17 PM.960] LSPD First Response: [TRACE] Wardrobe: Prop Constructor Started
+[9/5/2022 6:33:17 PM.961] LSPD First Response: [TRACE] Wardrobe: Prop Constructor Finished
+[9/5/2022 6:33:17 PM.971] LSPD First Response: [TRACE] Chair: Prop Constructor Started
+[9/5/2022 6:33:17 PM.971] LSPD First Response: [TRACE] Chair: Prop Constructor Finished
+[9/5/2022 6:33:17 PM.981] LSPD First Response: [TRACE] Radio: Prop Constructor Started
+[9/5/2022 6:33:17 PM.982] LSPD First Response: [TRACE] Radio: Prop Constructor Finished
+[9/5/2022 6:33:17 PM.984] LSPD First Response: [TRACE] Radio: Prop Constructor Started
+[9/5/2022 6:33:17 PM.984] LSPD First Response: [TRACE] Radio: Prop Constructor Finished
+[9/5/2022 6:33:17 PM.987] LSPD First Response: [TRACE] Radio: Prop Constructor Started
+[9/5/2022 6:33:17 PM.987] LSPD First Response: [TRACE] Radio: Prop Constructor Finished
+[9/5/2022 6:33:17 PM.992] LSPD First Response: [TRACE] Green Juice: Prop Constructor Started
+[9/5/2022 6:33:17 PM.992] LSPD First Response: [TRACE] Green Juice: Prop Constructor Finished
+[9/5/2022 6:33:17 PM.996] LSPD First Response: [TRACE] Wine: Prop Constructor Started
+[9/5/2022 6:33:17 PM.996] LSPD First Response: [TRACE] Wine: Prop Constructor Finished
+[9/5/2022 6:33:18 PM.000] LSPD First Response: [TRACE] Whisky: Prop Constructor Started
+[9/5/2022 6:33:18 PM.000] LSPD First Response: [TRACE] Whisky: Prop Constructor Finished
+[9/5/2022 6:33:18 PM.085] LSPD First Response: [TRACE] Updating scaleform
+[9/5/2022 6:33:18 PM.110] LSPD First Response: [TRACE] Updating scaleform
+[9/5/2022 6:33:18 PM.111] LSPD First Response: [TRACE] Updating scaleform
+[9/5/2022 6:33:18 PM.112] LSPD First Response: [TRACE] Updating scaleform
+[9/5/2022 6:33:18 PM.114] LSPD First Response: [TRACE] Updating scaleform
+[9/5/2022 6:33:18 PM.115] LSPD First Response: [TRACE] Updating scaleform
+[9/5/2022 6:33:18 PM.115] LSPD First Response: [TRACE] Successfully loaded interior for: 4 Integrity Way
+[9/5/2022 6:33:18 PM.257] LSPD First Response: [TRACE] Thread ApartmentProp #1 initialized
+[9/5/2022 6:33:18 PM.268] LSPD First Response: [TRACE] Thread ApartmentProp #2 initialized
+[9/5/2022 6:33:18 PM.274] LSPD First Response: [TRACE] Thread ApartmentProp #3 initialized
+[9/5/2022 6:33:18 PM.276] LSPD First Response: [TRACE] Started new menu thread MenuBase #10
+[9/5/2022 6:33:18 PM.379] LSPD First Response: [TRACE] Thread ApartmentTV #1 initialized
+[9/5/2022 6:33:18 PM.414] LSPD First Response: [TRACE] Thread ApartmentProp #5 initialized
+[9/5/2022 6:33:18 PM.416] LSPD First Response: [TRACE] Set scenepoint for radio based on prop_mp3_dock
+[9/5/2022 6:33:18 PM.416] LSPD First Response: [TRACE] Updating scaleform
+[9/5/2022 6:33:18 PM.419] LSPD First Response: [TRACE] Thread ApartmentProp #6 initialized
+[9/5/2022 6:33:18 PM.422] LSPD First Response: [TRACE] Set scenepoint for radio based on v_res_mm_audio
+[9/5/2022 6:33:18 PM.422] LSPD First Response: [TRACE] Updating scaleform
+[9/5/2022 6:33:18 PM.425] LSPD First Response: [TRACE] Thread ApartmentProp #7 initialized
+[9/5/2022 6:33:18 PM.426] LSPD First Response: [TRACE] Set scenepoint for radio based on prop_mp3_dock
+[9/5/2022 6:33:18 PM.426] LSPD First Response: [TRACE] Updating scaleform
+[9/5/2022 6:33:19 PM.242] LSPD First Response: [TRACE] Starting player switch
+[9/5/2022 6:33:22 PM.785] LSPD First Response: [TRACE] Preloading POLICEB
+[9/5/2022 6:33:22 PM.789] LSPD First Response: [TRACE] Preloading S_M_Y_HWAYCOP_01
+[9/5/2022 6:33:22 PM.877] LSPD First Response: [TRACE] Preloading POLICEB
+[9/5/2022 6:33:29 PM.521] LSPD First Response: [TRACE] Updating scaleform
+[9/5/2022 6:33:29 PM.552] LSPD First Response: [TRACE] Updating scaleform
+[9/5/2022 6:33:29 PM.553] LSPD First Response: [TRACE] Updating scaleform
+[9/5/2022 6:33:29 PM.588] LSPD First Response: [TRACE] Thread ApartmentProp #8 initialized
+[9/5/2022 6:33:29 PM.687] LSPD First Response: [TRACE] Thread ApartmentProp #9 initialized
+[9/5/2022 6:33:29 PM.718] LSPD First Response: [TRACE] Thread ApartmentProp #10 initialized
+[9/5/2022 6:33:30 PM.201] LSPD First Response: [TRACE] Created policeb at X:106.8844 Y:-542.8088 Z:43.98862
+[9/5/2022 6:33:30 PM.301] LSPD First Response: [TRACE] Preloading S_M_Y_HWAYCOP_01
+[9/5/2022 6:33:30 PM.305] LSPD First Response: [TRACE] New ped created s_m_y_hwaycop_01 (PedType: 6), Agency: CityPolice ()
+[9/5/2022 6:33:30 PM.564] LSPD First Response: [TRACE] Bob Griffin (S_M_Y_HWAYCOP_01) was set as a cop
+[9/5/2022 6:33:30 PM.672] LSPD First Response: [TRACE] AmbientSpawn - spawned: policeb
+[9/5/2022 6:33:30 PM.677] LSPD First Response: [TRACE] Preloading POLICEB
+[9/5/2022 6:33:30 PM.677] LSPD First Response: [TRACE] Preloading S_M_Y_HWAYCOP_01
+[9/5/2022 6:33:30 PM.822] LSPD First Response: [TRACE] Preloading POLICEB
+[9/5/2022 6:33:30 PM.829] LSPD First Response: [TRACE] Created policeb at X:-190.1862 Y:-491.0812 Z:27.97284
+[9/5/2022 6:33:30 PM.916] LSPD First Response: [TRACE] Preloading S_M_Y_HWAYCOP_01
+[9/5/2022 6:33:30 PM.921] LSPD First Response: [TRACE] New ped created s_m_y_hwaycop_01 (PedType: 6), Agency: CityPolice ()
+[9/5/2022 6:33:30 PM.930] LSPD First Response: [TRACE] Adam White (S_M_Y_HWAYCOP_01) was set as a cop
+[9/5/2022 6:33:30 PM.991] LSPD First Response: [TRACE] AmbientSpawn - spawned: policeb
+[9/5/2022 6:33:34 PM.087] LSPD First Response: [TRACE] Thread ApartmentProp #4 initialized
+[9/5/2022 6:33:36 PM.968] LSPD First Response: [TRACE] Player switch done
+[9/5/2022 6:33:46 PM.886] LSPD First Response: [TRACE] Hiding help for: Chair
+[9/5/2022 6:33:49 PM.876] LSPD First Response: [TRACE] Showing help for: Whisky
+[9/5/2022 6:33:50 PM.459] LSPD First Response: [TRACE] Hiding help for: Whisky
+[9/5/2022 6:33:56 PM.975] LSPD First Response: [TRACE] Unloading Apartment Interior: 4 Integrity Way
+[9/5/2022 6:33:56 PM.993] LSPD First Response: [TRACE] Asked thread ApartmentTV #1 to abort: No reason specified
+[9/5/2022 6:33:57 PM.011] LSPD First Response: [TRACE] Released 0 entities from ApartmentTV #1 Content Manager
+[9/5/2022 6:33:57 PM.011] LSPD First Response: [TRACE] Instance cleaned (ApartmentTV #1)
+[9/5/2022 6:33:57 PM.052] LSPD First Response: [TRACE] Asked thread ApartmentProp #1 to abort: No reason specified
+[9/5/2022 6:33:57 PM.088] LSPD First Response: [TRACE] Reset shower positions
+[9/5/2022 6:33:57 PM.088] LSPD First Response: [TRACE] Reset shower positions
+[9/5/2022 6:33:57 PM.099] LSPD First Response: [TRACE] Ended Shower
+[9/5/2022 6:33:57 PM.102] LSPD First Response: [TRACE] Released 0 entities from ApartmentProp #1 Content Manager
+[9/5/2022 6:33:57 PM.102] LSPD First Response: [TRACE] Instance cleaned (ApartmentProp #1)
+[9/5/2022 6:33:57 PM.102] LSPD First Response: [TRACE] Asked thread ApartmentProp #3 to abort: No reason specified
+[9/5/2022 6:33:57 PM.114] LSPD First Response: [TRACE] Released 0 entities from ApartmentProp #3 Content Manager
+[9/5/2022 6:33:57 PM.115] LSPD First Response: [TRACE] Instance cleaned (ApartmentProp #3)
+[9/5/2022 6:33:57 PM.115] LSPD First Response: [TRACE] Asked thread ApartmentProp #2 to abort: No reason specified
+[9/5/2022 6:33:57 PM.121] LSPD First Response: [TRACE] Released 0 entities from ApartmentProp #2 Content Manager
+[9/5/2022 6:33:57 PM.121] LSPD First Response: [TRACE] Instance cleaned (ApartmentProp #2)
+[9/5/2022 6:33:57 PM.121] LSPD First Response: [TRACE] Asked thread ApartmentProp #8 to abort: No reason specified
+[9/5/2022 6:33:57 PM.151] LSPD First Response: [TRACE] Released 0 entities from ApartmentProp #8 Content Manager
+[9/5/2022 6:33:57 PM.152] LSPD First Response: [TRACE] Instance cleaned (ApartmentProp #8)
+[9/5/2022 6:33:57 PM.152] LSPD First Response: [TRACE] Asked thread ApartmentProp #9 to abort: No reason specified
+[9/5/2022 6:33:57 PM.194] LSPD First Response: [TRACE] Released 0 entities from ApartmentProp #9 Content Manager
+[9/5/2022 6:33:57 PM.194] LSPD First Response: [TRACE] Instance cleaned (ApartmentProp #9)
+[9/5/2022 6:33:57 PM.194] LSPD First Response: [TRACE] Asked thread ApartmentProp #10 to abort: No reason specified
+[9/5/2022 6:33:57 PM.246] LSPD First Response: [TRACE] Released 0 entities from ApartmentProp #10 Content Manager
+[9/5/2022 6:33:57 PM.247] LSPD First Response: [TRACE] Instance cleaned (ApartmentProp #10)
+[9/5/2022 6:33:57 PM.247] LSPD First Response: [TRACE] Asked thread ApartmentProp #4 to abort: No reason specified
+[9/5/2022 6:33:57 PM.248] LSPD First Response: [TRACE] Ended Chair
+[9/5/2022 6:33:57 PM.249] LSPD First Response: [TRACE] Released 0 entities from ApartmentProp #4 Content Manager
+[9/5/2022 6:33:57 PM.249] LSPD First Response: [TRACE] Instance cleaned (ApartmentProp #4)
+[9/5/2022 6:33:57 PM.250] LSPD First Response: [TRACE] Asked thread ApartmentProp #5 to abort: No reason specified
+[9/5/2022 6:33:57 PM.253] LSPD First Response: [TRACE] Ended Radio
+[9/5/2022 6:33:57 PM.254] LSPD First Response: [TRACE] Released 0 entities from ApartmentProp #5 Content Manager
+[9/5/2022 6:33:57 PM.254] LSPD First Response: [TRACE] Instance cleaned (ApartmentProp #5)
+[9/5/2022 6:33:57 PM.254] LSPD First Response: [TRACE] Asked thread ApartmentProp #6 to abort: No reason specified
+[9/5/2022 6:33:57 PM.254] LSPD First Response: [TRACE] Ended Radio
+[9/5/2022 6:33:57 PM.254] LSPD First Response: [TRACE] Released 0 entities from ApartmentProp #6 Content Manager
+[9/5/2022 6:33:57 PM.254] LSPD First Response: [TRACE] Instance cleaned (ApartmentProp #6)
+[9/5/2022 6:33:57 PM.254] LSPD First Response: [TRACE] Asked thread ApartmentProp #7 to abort: No reason specified
+[9/5/2022 6:33:57 PM.254] LSPD First Response: [TRACE] Ended Radio
+[9/5/2022 6:33:57 PM.254] LSPD First Response: [TRACE] Released 0 entities from ApartmentProp #7 Content Manager
+[9/5/2022 6:33:57 PM.254] LSPD First Response: [TRACE] Instance cleaned (ApartmentProp #7)
+[9/5/2022 6:33:57 PM.254] LSPD First Response: [TRACE] Successfully unloaded: 4 Integrity Way
+[9/5/2022 6:33:58 PM.742] LSPD First Response: [TRACE] Thread ApartmentProp #1 has been shut down
+[9/5/2022 6:33:58 PM.742] LSPD First Response: [TRACE] Thread ApartmentProp #2 has been shut down
+[9/5/2022 6:33:58 PM.742] LSPD First Response: [TRACE] Thread ApartmentProp #3 has been shut down
+[9/5/2022 6:33:58 PM.742] LSPD First Response: [TRACE] Thread ApartmentTV #1 has been shut down
+[9/5/2022 6:33:58 PM.742] LSPD First Response: [TRACE] Thread ApartmentProp #4 has been shut down
+[9/5/2022 6:33:58 PM.743] LSPD First Response: [TRACE] Thread ApartmentProp #5 has been shut down
+[9/5/2022 6:33:58 PM.743] LSPD First Response: [TRACE] Thread ApartmentProp #6 has been shut down
+[9/5/2022 6:33:58 PM.743] LSPD First Response: [TRACE] Thread ApartmentProp #7 has been shut down
+[9/5/2022 6:33:58 PM.743] LSPD First Response: [TRACE] Thread ApartmentProp #8 has been shut down
+[9/5/2022 6:33:58 PM.743] LSPD First Response: [TRACE] Thread ApartmentProp #9 has been shut down
+[9/5/2022 6:33:58 PM.743] LSPD First Response: [TRACE] Thread ApartmentProp #10 has been shut down
+[9/5/2022 6:34:04 PM.040] LSPD First Response: [TRACE] Preloading POLICE
+[9/5/2022 6:34:04 PM.041] LSPD First Response: [TRACE] Preloading MP_M_FREEMODE_01
+[9/5/2022 6:34:04 PM.139] LSPD First Response: [TRACE] Preloading POLICE
+[9/5/2022 6:34:04 PM.141] LSPD First Response: [TRACE] Created police at X:57.05103 Y:-776.7648 Z:32.33659
+[9/5/2022 6:34:04 PM.284] LSPD First Response: [TRACE] Preloading MP_M_FREEMODE_01
+[9/5/2022 6:34:04 PM.306] LSPD First Response: [TRACE] New ped created mp_m_freemode_01 (PedType: 6), Agency: CityPolice ()
+[9/5/2022 6:34:04 PM.337] LSPD First Response: [WARN] GetOutfitVariation: Failed to find outfit lspd_cop
+[9/5/2022 6:34:04 PM.339] LSPD First Response: [WARN] GetOutfitVariation: Failed to find outfit lspd_cop
+[9/5/2022 6:34:04 PM.371] LSPD First Response: [TRACE] Dan Smith (MP_M_FREEMODE_01) was set as a cop
+[9/5/2022 6:34:04 PM.424] LSPD First Response: [TRACE] Preloading MP_M_FREEMODE_01
+[9/5/2022 6:34:04 PM.453] LSPD First Response: [TRACE] New ped created mp_m_freemode_01 (PedType: 6), Agency: CityPolice ()
+[9/5/2022 6:34:04 PM.458] LSPD First Response: [WARN] GetOutfitVariation: Failed to find outfit lspd_cop
+[9/5/2022 6:34:04 PM.458] LSPD First Response: [WARN] GetOutfitVariation: Failed to find outfit lspd_cop
+[9/5/2022 6:34:04 PM.480] LSPD First Response: [TRACE] Euctance Willyberry (MP_M_FREEMODE_01) was set as a cop
+[9/5/2022 6:34:04 PM.535] LSPD First Response: [TRACE] AmbientSpawn - spawned: police
+[9/5/2022 6:34:09 PM.769] LSPD First Response: [WARN] Path without extension: lspdfr/data/custom
+[9/5/2022 6:34:09 PM.769] LSPD First Response: [WARN] Path without extension: lspdfr/data/custom
+[9/5/2022 6:34:09 PM.769] LSPD First Response: [TRACE] ExpandableFileParser::Parse: Reading content from file:lspdfr/data/duty_selection.xml
+[9/5/2022 6:34:09 PM.817] LSPD First Response: [TRACE] Setting player to lspd from last agency
+[9/5/2022 6:34:09 PM.865] LSPD First Response: [WARN] GetOutfitVariation: Failed to find outfit lspd_cop
+[9/5/2022 6:34:09 PM.881] LSPD First Response: [INFO] Player Persona voice is: s_m_y_cop_01_white_full_01
+[9/5/2022 6:34:09 PM.884] LSPD First Response: [WARN] GetOutfitVariation: Failed to find outfit lspd_cop
+[9/5/2022 6:34:09 PM.918] LSPD First Response: [TRACE] Setting player outfit to m_base from last outfit
+[9/5/2022 6:34:09 PM.919] LSPD First Response: [WARN] GetOutfitVariation: Failed to find outfit lspd_cop
+[9/5/2022 6:34:09 PM.970] LSPD First Response: [TRACE] Thread AgencySelector #1 initialized
+[9/5/2022 6:34:10 PM.199] LSPD First Response: [TRACE] Player went on duty.
+[9/5/2022 6:34:10 PM.223] LSPD First Response: Folder is D:\Epic Games\Games\GTAV\plugins\lspdfr
+[9/5/2022 6:34:10 PM.530] LSPD First Response: CompuLite, Version=1.5.2.7, Culture=neutral, PublicKeyToken=null
+[9/5/2022 6:34:10 PM.530] LSPD First Response: AmazingCallouts, Version=1.5.2.7, Culture=neutral, PublicKeyToken=null
+[9/5/2022 6:34:10 PM.530] LSPD First Response: Test Plugin, Version=1.5.2.7, Culture=neutral, PublicKeyToken=null
+[9/5/2022 6:34:10 PM.590] LSPD First Response: DeadlyWeapons, Version=2.2.0.0, Culture=neutral, PublicKeyToken=null
+[9/5/2022 6:34:10 PM.607] LSPD First Response: ForceACallout, Version=1.6.1.3, Culture=neutral, PublicKeyToken=null
+[9/11/2022 7:44:17 PM.675] LSPD First Response: LemonUI.SHVDN3, Version=1.4.0.0, Culture=neutral, PublicKeyToken=null
+[9/5/2022 6:34:10 PM.631] LSPD First Response: HeliAssistance, Version=2.4.2.0, Culture=neutral, PublicKeyToken=null
+[9/5/2022 6:34:10 PM.657] LSPD First Response: PoliceSmartRadio, Version=1.2.0.0, Culture=neutral, PublicKeyToken=null
+[9/5/2022 6:34:10 PM.676] LSPD First Response: SaferChasesRPH, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+[9/5/2022 6:34:10 PM.693] LSPD First Response: Section136Callouts, Version=1.10.1399.0, Culture=neutral, PublicKeyToken=null
+[9/5/2022 6:34:10 PM.723] LSPD First Response: SecureMyVehicle, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+[9/5/2022 6:34:10 PM.729] LSPD First Response: SimpleCallouts, Version=1.3.5.2, Culture=neutral, PublicKeyToken=null
+[9/5/2022 6:34:10 PM.735] LSPD First Response: SpeedyPursuit, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null
+[9/5/2022 6:34:10 PM.737] LSPD First Response: StopThePed, Version=4.9.5.1, Culture=neutral, PublicKeyToken=null
+[9/5/2022 6:34:10 PM.749] LSPD First Response: SuperCallouts, Version=3.2.0.0, Culture=neutral, PublicKeyToken=null
+[9/5/2022 6:34:10 PM.753] LSPD First Response: Traffic Policer, Version=6.16.0.0, Culture=neutral, PublicKeyToken=null
+[9/5/2022 6:34:10 PM.773] LSPD First Response: UltimateBackup, Version=1.8.7.0, Culture=neutral, PublicKeyToken=null
+[9/5/2022 6:34:10 PM.782] LSPD First Response: UnitedCallouts, Version=1.5.8.0, Culture=neutral, PublicKeyToken=null
+[9/5/2022 6:34:10 PM.801] LSPD First Response: Creating plugin: ⁬​‍⁮⁮‎⁯‎‏‍‌⁭‌‏⁪⁪‍‫⁫‎‏‭‬‎‎⁮‮‫‏⁮‍‌‫​‭⁯‪‎​‮‮
+[9/5/2022 6:34:11 PM.111] LSPD First Response: Creating plugin: DeadlyWeapons.Main
+[9/5/2022 6:34:11 PM.112] LSPD First Response: Creating plugin: ForceACallout.Main
+[9/5/2022 6:34:11 PM.112] LSPD First Response: Creating plugin: HeliAssistance.Main
+[9/5/2022 6:34:11 PM.113] LSPD First Response: Creating plugin: PoliceSmartRadio.Main
+[9/5/2022 6:34:11 PM.121] LSPD First Response: Albo1125.Common verifying update entry for Police SmartRadio
+[9/5/2022 6:34:11 PM.201] LSPD First Response: Creating plugin: RAGEComputer.PortedAI
+[9/5/2022 6:34:11 PM.201] LSPD First Response: Creating plugin: ⁬‮‎‍‭‫⁭⁬​​‫‍⁮⁫‮‭⁫⁭‭‪⁫‎‫‫⁯​⁭⁪⁭‪‍⁭​‬⁮‭‍⁪‭⁬‮
+[9/5/2022 6:34:11 PM.384] LSPD First Response: Creating plugin: SecureMyVehicle.Main
+[9/5/2022 6:34:11 PM.384] LSPD First Response: Creating plugin: SimpleCallouts.Main
+[9/5/2022 6:34:11 PM.493] LSPD First Response: Creating plugin: SpeedyPursuit.Main
+[9/5/2022 6:34:11 PM.493] LSPD First Response: Creating plugin: ⁯⁪‭‎‮⁪⁫‍⁪​⁮⁪⁮⁮‪‏‫‬⁬⁯⁮⁯⁮‬‍⁫‫​‪⁮‍‍‭‎⁫‪⁭‪‭⁭‮
+[9/5/2022 6:34:11 PM.642] LSPD First Response: Creating plugin: SuperCallouts.Main
+[9/5/2022 6:34:11 PM.642] LSPD First Response: Creating plugin: Traffic_Policer.Main
+[9/5/2022 6:34:11 PM.643] LSPD First Response: Creating Traffic Policer.Main.
+[9/5/2022 6:34:11 PM.645] LSPD First Response: Albo1125.Common verifying update entry for Traffic Policer
+[9/5/2022 6:34:11 PM.647] LSPD First Response: Done with Traffic Policer.Main.
+[9/5/2022 6:34:11 PM.647] LSPD First Response: Creating plugin: ‮⁫​⁬⁪‫⁬⁭‪⁬‪‎‬‏⁯⁭⁮⁬‭‏‪⁬​⁪⁮‪‌⁪⁪‭⁪‬⁪‏​‭‏‫⁫‎‮
+[9/5/2022 6:34:11 PM.773] LSPD First Response: Creating plugin: UnitedCallouts.Main
+[9/5/2022 6:34:11 PM.778] LSPD First Response: Plugin CompuLite v1.5.2.7 has been initialized.
+[9/5/2022 6:34:11 PM.778] LSPD First Response: Go on duty to fully load CompuLite
+[9/5/2022 6:34:11 PM.781] LSPD First Response: Loading Deadly Weapons config.
+[9/5/2022 6:34:11 PM.788] LSPD First Response: Deadly Weapons: Config loaded.
+[9/5/2022 6:34:11 PM.788] LSPD First Response: Deadly Weapons 2.2.0.0 by SuperPyroManiac has been initialised.
+[9/5/2022 6:34:11 PM.788] LSPD First Response: Go on duty with LSPDFR to start the plugin.
+[9/5/2022 6:34:11 PM.832] LSPD First Response: [ForceACallout]: ForceACallout 1.6.1.3 has been  initialized.
+[9/5/2022 6:34:11 PM.838] LSPD First Response: [HeliAssist] Correct RageNativeUI found
+[9/5/2022 6:34:11 PM.838] LSPD First Response: RageNativeUI Version: 1.8.4.2
+[9/5/2022 6:34:11 PM.839] LSPD First Response: [HeliAssist] The minimum version of Spotlight not installed; need v1.4.0
+[9/5/2022 6:34:11 PM.842] PoliceSmartRadio 1.2.0.0, developed by Albo1125, loaded successfully!
+[9/5/2022 6:34:11 PM.842] Special thanks to FinKone for the inspiration and OfficerSquare for the default UI.
+[9/5/2022 6:34:11 PM.842] Please go on duty to start Police SmartRadio.
+[9/5/2022 6:34:11 PM.844] SAFER CHASES v1.5 LOADED
+[9/5/2022 6:34:11 PM.851] LSPD First Response: [Section136Callouts] Section136Callouts | written by Max Playle
+[9/5/2022 6:34:11 PM.856] LSPD First Response: [Section136Callouts]  © Max Playle 2020-2022 All rights reserved
+[9/5/2022 6:34:11 PM.893] LSPD First Response: [Section136Callouts] Deserializing MainConfigFile from mainconfig.xml
+[09/05/2022 18:34:12.485] LSPD First Response: [Section136Callouts]  [FileCheck ReportFindings for ​‎‌‮⁭‪⁯⁮‏​‌‫‪‮‌⁫‬⁯⁯‮‪‬‍⁬⁫⁬⁫⁮‫‮‎⁮‍⁪‌‎​⁭⁬⁯‮] ==================================== SECTION136CALLOUTS FILE INTEGRITY CHECK =======================================
+[09/05/2022 18:34:12.486] LSPD First Response: [Section136Callouts]  [FileCheck ReportFindings for ​‎‌‮⁭‪⁯⁮‏​‌‫‪‮‌⁫‬⁯⁯‮‪‬‍⁬⁫⁬⁫⁮‫‮‎⁮‍⁪‌‎​⁭⁬⁯‮] A file integrity check has been requested for file/folder: plugins\lspdfr\section136callouts\callouts\attemptedrape\configuration.xml
+[09/05/2022 18:34:12.486] LSPD First Response: [Section136Callouts]  [FileCheck ReportFindings for ​‎‌‮⁭‪⁯⁮‏​‌‫‪‮‌⁫‬⁯⁯‮‪‬‍⁬⁫⁬⁫⁮‫‮‎⁮‍⁪‌‎​⁭⁬⁯‮] RESULT: Exists as file? True
+[09/05/2022 18:34:12.486] LSPD First Response: [Section136Callouts]  [FileCheck ReportFindings for ​‎‌‮⁭‪⁯⁮‏​‌‫‪‮‌⁫‬⁯⁯‮‪‬‍⁬⁫⁬⁫⁮‫‮‎⁮‍⁪‌‎​⁭⁬⁯‮] Result: Exists as directory? False
+[09/05/2022 18:34:12.486] LSPD First Response: [Section136Callouts]  [FileCheck ReportFindings for ​‎‌‮⁭‪⁯⁮‏​‌‫‪‮‌⁫‬⁯⁯‮‪‬‍⁬⁫⁬⁫⁮‫‮‎⁮‍⁪‌‎​⁭⁬⁯‮] ====================================================================================================================
+[09/05/2022 18:34:12.486] LSPD First Response: [Section136Callouts] Initialising and processing new instance of the Attempted Rape configuration...
+[09/05/2022 18:34:12.643] LSPD First Response: [Section136Callouts] Irrelevent XML data; disregarding.
+[09/05/2022 18:34:12.643] LSPD First Response: [Section136Callouts] Irrelevent XML data; disregarding.
+[09/05/2022 18:34:12.643] LSPD First Response: [Section136Callouts] Processing character models...
+[09/05/2022 18:34:12.646] LSPD First Response: [Section136Callouts] Character type valid.
+[09/05/2022 18:34:12.647] LSPD First Response: [Section136Callouts] Character model is s_f_y_hooker_01 is a valid model.
+[09/05/2022 18:34:12.647] LSPD First Response: [Section136Callouts] Sending model [s_f_y_hooker_01] to model registry as type [victim]
+[09/05/2022 18:34:12.647] LSPD First Response: [Section136Callouts] Finished processing model entry with name [s_f_y_hooker_01] and type [victim]!
+[09/05/2022 18:34:12.647] LSPD First Response: [Section136Callouts] Character type valid.
+[09/05/2022 18:34:12.647] LSPD First Response: [Section136Callouts] Character model is s_f_y_hooker_02 is a valid model.
+[09/05/2022 18:34:12.647] LSPD First Response: [Section136Callouts] Sending model [s_f_y_hooker_02] to model registry as type [victim]
+[09/05/2022 18:34:12.647] LSPD First Response: [Section136Callouts] Finished processing model entry with name [s_f_y_hooker_02] and type [victim]!
+[09/05/2022 18:34:12.647] LSPD First Response: [Section136Callouts] Character type valid.
+[09/05/2022 18:34:12.648] LSPD First Response: [Section136Callouts] Character model is s_f_y_hooker_03 is a valid model.
+[09/05/2022 18:34:12.648] LSPD First Response: [Section136Callouts] Sending model [s_f_y_hooker_03] to model registry as type [victim]
+[09/05/2022 18:34:12.648] LSPD First Response: [Section136Callouts] Finished processing model entry with name [s_f_y_hooker_03] and type [victim]!
+[09/05/2022 18:34:12.648] LSPD First Response: [Section136Callouts] Character type valid.
+[09/05/2022 18:34:12.648] LSPD First Response: [Section136Callouts] Character model is ig_old_man1a is a valid model.
+[09/05/2022 18:34:12.648] LSPD First Response: [Section136Callouts] Sending model [ig_old_man1a] to model registry as type [suspect]
+[09/05/2022 18:34:12.648] LSPD First Response: [Section136Callouts] Finished processing model entry with name [ig_old_man1a] and type [suspect]!
+[09/05/2022 18:34:12.648] LSPD First Response: [Section136Callouts] Character type valid.
+[09/05/2022 18:34:12.648] LSPD First Response: [Section136Callouts] Character model is cs_old_man1a is a valid model.
+[09/05/2022 18:34:12.648] LSPD First Response: [Section136Callouts] Sending model [cs_old_man1a] to model registry as type [suspect]
+[09/05/2022 18:34:12.648] LSPD First Response: [Section136Callouts] Finished processing model entry with name [cs_old_man1a] and type [suspect]!
+[09/05/2022 18:34:12.648] LSPD First Response: [Section136Callouts] Character type valid.
+[09/05/2022 18:34:12.649] LSPD First Response: [Section136Callouts] Character model is ig_oneil is a valid model.
+[09/05/2022 18:34:12.649] LSPD First Response: [Section136Callouts] Sending model [ig_oneil] to model registry as type [suspect]
+[09/05/2022 18:34:12.649] LSPD First Response: [Section136Callouts] Finished processing model entry with name [ig_oneil] and type [suspect]!
+[09/05/2022 18:34:12.649] LSPD First Response: [Section136Callouts] Character type valid.
+[09/05/2022 18:34:12.649] LSPD First Response: [Section136Callouts] Character model is ig_old_man2 is a valid model.
+[09/05/2022 18:34:12.649] LSPD First Response: [Section136Callouts] Sending model [ig_old_man2] to model registry as type [suspect]
+[09/05/2022 18:34:12.649] LSPD First Response: [Section136Callouts] Finished processing model entry with name [ig_old_man2] and type [suspect]!
+[09/05/2022 18:34:12.649] LSPD First Response: [Section136Callouts] Character type valid.
+[09/05/2022 18:34:12.649] LSPD First Response: [Section136Callouts] Character model is u_m_y_party_01 is a valid model.
+[09/05/2022 18:34:12.649] LSPD First Response: [Section136Callouts] Sending model [u_m_y_party_01] to model registry as type [suspect]
+[09/05/2022 18:34:12.649] LSPD First Response: [Section136Callouts] Finished processing model entry with name [u_m_y_party_01] and type [suspect]!
+[09/05/2022 18:34:12.649] LSPD First Response: [Section136Callouts] Character type valid.
+[09/05/2022 18:34:12.650] LSPD First Response: [Section136Callouts] Character model is a_m_y_polynesian_01 is a valid model.
+[09/05/2022 18:34:12.650] LSPD First Response: [Section136Callouts] Sending model [a_m_y_polynesian_01] to model registry as type [suspect]
+[09/05/2022 18:34:12.650] LSPD First Response: [Section136Callouts] Finished processing model entry with name [a_m_y_polynesian_01] and type [suspect]!
+[09/05/2022 18:34:12.650] LSPD First Response: [Section136Callouts] Character type valid.
+[09/05/2022 18:34:12.650] LSPD First Response: [Section136Callouts] Character model is ig_priest is a valid model.
+[09/05/2022 18:34:12.650] LSPD First Response: [Section136Callouts] Sending model [ig_priest] to model registry as type [suspect]
+[09/05/2022 18:34:12.650] LSPD First Response: [Section136Callouts] Finished processing model entry with name [ig_priest] and type [suspect]!
+[09/05/2022 18:34:12.650] LSPD First Response: [Section136Callouts] Character type valid.
+[09/05/2022 18:34:12.650] LSPD First Response: [Section136Callouts] Character model is u_m_y_proldriver_01 is a valid model.
+[09/05/2022 18:34:12.650] LSPD First Response: [Section136Callouts] Sending model [u_m_y_proldriver_01] to model registry as type [suspect]
+[09/05/2022 18:34:12.650] LSPD First Response: [Section136Callouts] Finished processing model entry with name [u_m_y_proldriver_01] and type [suspect]!
+[09/05/2022 18:34:12.650] LSPD First Response: [Section136Callouts] Character type valid.
+[09/05/2022 18:34:12.650] LSPD First Response: [Section136Callouts] Character model is csb_prologuedriver is a valid model.
+[09/05/2022 18:34:12.651] LSPD First Response: [Section136Callouts] Sending model [csb_prologuedriver] to model registry as type [suspect]
+[09/05/2022 18:34:12.651] LSPD First Response: [Section136Callouts] Finished processing model entry with name [csb_prologuedriver] and type [suspect]!
+[09/05/2022 18:34:12.651] LSPD First Response: [Section136Callouts] Processing vehicle models...
+[09/05/2022 18:34:12.651] LSPD First Response: [Section136Callouts] Adding STANIER to AttemptedRape.PermittedVehicleModels
+[09/05/2022 18:34:12.651] LSPD First Response: [Section136Callouts] Adding BLISTA to AttemptedRape.PermittedVehicleModels
+[09/05/2022 18:34:12.651] LSPD First Response: [Section136Callouts] Adding DILETTANTE to AttemptedRape.PermittedVehicleModels
+[09/05/2022 18:34:12.651] LSPD First Response: [Section136Callouts] Adding ISSI2 to AttemptedRape.PermittedVehicleModels
+[09/05/2022 18:34:12.651] LSPD First Response: [Section136Callouts] Adding PANTO to AttemptedRape.PermittedVehicleModels
+[09/05/2022 18:34:12.651] LSPD First Response: [Section136Callouts] Adding RHAPSODY to AttemptedRape.PermittedVehicleModels
+[09/05/2022 18:34:12.651] LSPD First Response: [Section136Callouts] Adding SENTINEL to AttemptedRape.PermittedVehicleModels
+[09/05/2022 18:34:12.652] LSPD First Response: [Section136Callouts] Adding ZION to AttemptedRape.PermittedVehicleModels
+[09/05/2022 18:34:12.652] LSPD First Response: [Section136Callouts] Adding BMX to AttemptedRape.PermittedVehicleModels
+[09/05/2022 18:34:12.652] LSPD First Response: [Section136Callouts] Adding PCJ to AttemptedRape.PermittedVehicleModels
+[09/05/2022 18:34:12.652] LSPD First Response: [Section136Callouts] Adding SANCHEZ to AttemptedRape.PermittedVehicleModels
+[09/05/2022 18:34:12.652] LSPD First Response: [Section136Callouts] Adding BLADE to AttemptedRape.PermittedVehicleModels
+[09/05/2022 18:34:12.652] LSPD First Response: [Section136Callouts] Adding BUCCANEER to AttemptedRape.PermittedVehicleModels
+[09/05/2022 18:34:12.652] LSPD First Response: [Section136Callouts] Adding FACTION to AttemptedRape.PermittedVehicleModels
+[09/05/2022 18:34:12.652] LSPD First Response: [Section136Callouts] !! WARNING !! POHENIX is not a valid vehicle model. It will be skipped.
+[09/05/2022 18:34:12.653] LSPD First Response: [Section136Callouts] Adding TAMPA to AttemptedRape.PermittedVehicleModels
+[09/05/2022 18:34:12.653] LSPD First Response: [Section136Callouts] Adding VIRGO to AttemptedRape.PermittedVehicleModels
+[09/05/2022 18:34:12.653] LSPD First Response: [Section136Callouts] Adding BALLER to AttemptedRape.PermittedVehicleModels
+[09/05/2022 18:34:12.653] LSPD First Response: [Section136Callouts] Trying to set Ambulance Response timeout...
+[09/05/2022 18:34:12.670] LSPD First Response: [Section136Callouts]  [FileCheck ReportFindings for ​‎‌‮⁭‪⁯⁮‏​‌‫‪‮‌⁫‬⁯⁯‮‪‬‍⁬⁫⁬⁫⁮‫‮‎⁮‍⁪‌‎​⁭⁬⁯‮] ==================================== SECTION136CALLOUTS FILE INTEGRITY CHECK =======================================
+[09/05/2022 18:34:12.670] LSPD First Response: [Section136Callouts]  [FileCheck ReportFindings for ​‎‌‮⁭‪⁯⁮‏​‌‫‪‮‌⁫‬⁯⁯‮‪‬‍⁬⁫⁬⁫⁮‫‮‎⁮‍⁪‌‎​⁭⁬⁯‮] A file integrity check has been requested for file/folder: plugins\lspdfr\section136callouts\callouts\interiorburglary\configuration.xml
+[09/05/2022 18:34:12.671] LSPD First Response: [Section136Callouts]  [FileCheck ReportFindings for ​‎‌‮⁭‪⁯⁮‏​‌‫‪‮‌⁫‬⁯⁯‮‪‬‍⁬⁫⁬⁫⁮‫‮‎⁮‍⁪‌‎​⁭⁬⁯‮] RESULT: Exists as file? True
+[09/05/2022 18:34:12.671] LSPD First Response: [Section136Callouts]  [FileCheck ReportFindings for ​‎‌‮⁭‪⁯⁮‏​‌‫‪‮‌⁫‬⁯⁯‮‪‬‍⁬⁫⁬⁫⁮‫‮‎⁮‍⁪‌‎​⁭⁬⁯‮] Result: Exists as directory? False
+[09/05/2022 18:34:12.671] LSPD First Response: [Section136Callouts]  [FileCheck ReportFindings for ​‎‌‮⁭‪⁯⁮‏​‌‫‪‮‌⁫‬⁯⁯‮‪‬‍⁬⁫⁬⁫⁮‫‮‎⁮‍⁪‌‎​⁭⁬⁯‮] ====================================================================================================================
+[09/05/2022 18:34:12.672] LSPD First Response: [Section136Callouts] Finished processing model entry with name [csb_abigail] and type [victim]!
+[09/05/2022 18:34:12.672] LSPD First Response: [Section136Callouts] Finished processing model entry with name [csb_anita] and type [victim]!
+[09/05/2022 18:34:12.672] LSPD First Response: [Section136Callouts] Finished processing model entry with name [csb_money] and type [victim]!
+[09/05/2022 18:34:12.673] LSPD First Response: [Section136Callouts] Finished processing model entry with name [cs_bankman] and type [victim]!
+[09/05/2022 18:34:12.673] LSPD First Response: [Section136Callouts] Finished processing model entry with name [s_f_y_bartender_01] and type [victim]!
+[09/05/2022 18:34:12.673] LSPD First Response: [Section136Callouts] Finished processing model entry with name [a_m_y_beach_01] and type [victim]!
+[09/05/2022 18:34:12.673] LSPD First Response: [Section136Callouts] Finished processing model entry with name [a_f_y_bevhills_04] and type [victim]!
+[09/05/2022 18:34:12.673] LSPD First Response: [Section136Callouts] Finished processing model entry with name [a_f_y_bevhills_03] and type [victim]!
+[09/05/2022 18:34:12.674] LSPD First Response: [Section136Callouts] Finished processing model entry with name [a_m_y_bevhills_02] and type [victim]!
+[09/05/2022 18:34:12.674] LSPD First Response: [Section136Callouts] Finished processing model entry with name [a_m_y_busicas_01] and type [victim]!
+[09/05/2022 18:34:12.674] LSPD First Response: [Section136Callouts] Finished processing model entry with name [a_m_m_business_01] and type [victim]!
+[09/05/2022 18:34:12.674] LSPD First Response: [Section136Callouts] Finished processing model entry with name [a_m_y_business_02] and type [victim]!
+[09/05/2022 18:34:12.674] LSPD First Response: [Section136Callouts] Finished processing model entry with name [a_f_y_business_02] and type [victim]!
+[09/05/2022 18:34:12.674] LSPD First Response: [Section136Callouts] Finished processing model entry with name [a_f_m_business_02] and type [victim]!
+[09/05/2022 18:34:12.675] LSPD First Response: [Section136Callouts] Finished processing model entry with name [ig_old_man1a] and type [suspect]!
+[09/05/2022 18:34:12.675] LSPD First Response: [Section136Callouts] Finished processing model entry with name [cs_old_man1a] and type [suspect]!
+[09/05/2022 18:34:12.675] LSPD First Response: [Section136Callouts] Finished processing model entry with name [ig_oneil] and type [suspect]!
+[09/05/2022 18:34:12.675] LSPD First Response: [Section136Callouts] Finished processing model entry with name [ig_old_man2] and type [suspect]!
+[09/05/2022 18:34:12.675] LSPD First Response: [Section136Callouts] Finished processing model entry with name [u_m_y_party_01] and type [suspect]!
+[09/05/2022 18:34:12.675] LSPD First Response: [Section136Callouts] Finished processing model entry with name [a_m_y_polynesian_01] and type [suspect]!
+[09/05/2022 18:34:12.676] LSPD First Response: [Section136Callouts] Finished processing model entry with name [ig_priest] and type [suspect]!
+[09/05/2022 18:34:12.676] LSPD First Response: [Section136Callouts] Finished processing model entry with name [u_m_y_proldriver_01] and type [suspect]!
+[09/05/2022 18:34:12.676] LSPD First Response: [Section136Callouts] Finished processing model entry with name [csb_prologuedriver] and type [suspect]!
+[09/05/2022 18:34:12.676] LSPD First Response: [Section136Callouts] Finished processing model entry with name [s_m_o_busker_01] and type [suspect]!
+[09/05/2022 18:34:12.676] LSPD First Response: [Section136Callouts] Processing vehicle models...
+[09/05/2022 18:34:12.676] LSPD First Response: [Section136Callouts] Adding BLISTA to AttemptedRape.PermittedVehicleModels
+[09/05/2022 18:34:12.677] LSPD First Response: [Section136Callouts] Adding PANTO to AttemptedRape.PermittedVehicleModels
+[09/05/2022 18:34:12.677] LSPD First Response: [Section136Callouts] Adding EXEMPLAR to AttemptedRape.PermittedVehicleModels
+[09/05/2022 18:34:12.677] LSPD First Response: [Section136Callouts] Adding F620 to AttemptedRape.PermittedVehicleModels
+[09/05/2022 18:34:12.677] LSPD First Response: [Section136Callouts] Adding FELON to AttemptedRape.PermittedVehicleModels
+[09/05/2022 18:34:12.677] LSPD First Response: [Section136Callouts] Adding SPEEDO to AttemptedRape.PermittedVehicleModels
+[09/05/2022 18:34:12.686] LSPD First Response: [Section136Callouts] Subscribing to Duty Status Changed notifications.
+[09/05/2022 18:34:12.689] LSPD First Response: [SecureMyVehicle] Reading INI
+[09/05/2022 18:34:12.698] LSPD First Response: [SecureMyVehicle] SecureMyVehicle v1.0.0 has been initialized.
+[09/05/2022 18:34:12.702] LSPD First Response: Plugin SimpleCallouts1.3.5.2has been initialized.
+[09/05/2022 18:34:12.703] LSPD First Response: Go on duty to fully load SimpleCallouts
+[09/05/2022 18:34:12.703] LSPD First Response: SpeedyPursuit2.0.0.0 has been initialised.
+[09/05/2022 18:34:12.703] LSPD First Response: Go on duty to fully load SpeedyPursuit.
+[09/05/2022 18:34:12.706] LSPD First Response: Plugin StopThePed v4.9.5.1 has been initialized.
+[09/05/2022 18:34:12.706] LSPD First Response: Go on duty to fully load StopThePed
+[09/05/2022 18:34:12.708] LSPD First Response: Loading SuperCallouts config.
+[09/05/2022 18:34:12.718] LSPD First Response: SuperCallouts: Config loaded.
+[09/05/2022 18:34:12.718] LSPD First Response: SuperCallouts 3.2.0.0 by SuperPyroManiac has been initialised.
+[09/05/2022 18:34:12.718] LSPD First Response: Go on duty with LSPDFR to fully load SuperCallouts.
+[09/05/2022 18:34:12.794] LSPD First Response: Traffic Policer 6.16.0.0, developed by Albo1125, has been initialised.
+[09/05/2022 18:34:12.794] LSPD First Response: Go on duty to start Traffic Policer - Traffic Policer.Initialise done.
+[09/05/2022 18:34:12.797] LSPD First Response: Plugin UltimateBackup v1.8.7.0 has been initialized.
+[09/05/2022 18:34:12.798] LSPD First Response: Go on duty to fully load UltimateBackup
+[09/05/2022 18:34:12.799] LSPD First Response: [LOG]: Loading config file from UnitedCallouts.
+[09/05/2022 18:34:12.806] LSPD First Response: We have 3 callouts registered
+[09/05/2022 18:34:12.809] LSPD First Response: CalloutManager initialized
+[09/05/2022 18:34:12.812] LSPD First Response: [TRACE] WorldEventManager: Allowing up to 1 events
+[09/05/2022 18:34:12.836] LSPD First Response: [TRACE] Created new evidence: CrimeEvidenceInPedPossession
+[09/05/2022 18:34:12.839] LSPD First Response: [TRACE] Created new evidence: CrimeEvidenceInPedPossession
+[09/05/2022 18:34:12.853] LSPD First Response: [INFO] Model preloading enabled
+[09/05/2022 18:34:12.853] LSPD First Response: [TRACE] Preloading POLICE
+[09/05/2022 18:34:12.853] LSPD First Response: [TRACE] Preloading POLICE2
+[09/05/2022 18:34:12.854] LSPD First Response: [TRACE] Preloading POLICE3
+[09/05/2022 18:34:12.854] LSPD First Response: [TRACE] Preloading POLICET
+[09/05/2022 18:34:12.854] LSPD First Response: [TRACE] Preloading SHERIFF2
+[09/05/2022 18:34:12.854] LSPD First Response: [TRACE] Preloading SHERIFF
+[09/05/2022 18:34:12.854] LSPD First Response: [TRACE] Preloading POLICE4
+[09/05/2022 18:34:12.854] LSPD First Response: [TRACE] Preloading POLICEB
+[09/05/2022 18:34:12.854] LSPD First Response: [TRACE] Preloading FBI2
+[09/05/2022 18:34:12.854] LSPD First Response: [TRACE] Preloading POLICEOLD1
+[09/05/2022 18:34:12.854] LSPD First Response: [TRACE] Preloading POLICEOLD2
+[09/05/2022 18:34:12.854] LSPD First Response: [TRACE] Preloading BUZZARD
+[09/05/2022 18:34:12.854] LSPD First Response: [TRACE] Preloading POLMAV
+[09/05/2022 18:34:12.854] LSPD First Response: [TRACE] Preloading FROGGER2
+[09/05/2022 18:34:12.854] LSPD First Response: [TRACE] Preloading AMBULANCE
+[09/05/2022 18:34:12.855] LSPD First Response: [TRACE] Preloading FIRETRUK
+[09/05/2022 18:34:12.856] LSPD First Response: [TRACE] Preloading asset 1B06D571
+[09/05/2022 18:34:12.856] LSPD First Response: [TRACE] Preloading asset 1D073A89
+[09/05/2022 18:34:12.856] LSPD First Response: [TRACE] Preloading asset 60EC506
+[09/05/2022 18:34:12.856] LSPD First Response: [TRACE] Preloading asset 678B81B1
+[09/05/2022 18:34:12.856] LSPD First Response: [TRACE] Preloading asset 3656C8C1
+[09/05/2022 18:34:12.856] LSPD First Response: [TRACE] Preloading asset 83BF0278
+[09/05/2022 18:34:12.871] LSPD First Response: [TRACE] Auto started component PersonaSearch #1
+[09/05/2022 18:34:12.874] LSPD First Response: [TRACE] Auto started component StudyStatistics #1
+[09/05/2022 18:34:12.878] LSPD First Response: [TRACE] Auto started component AmbientCharacterManager #1
+[09/05/2022 18:34:12.881] LSPD First Response: [TRACE] Auto started component AmbientEvidenceManager #1
+[09/05/2022 18:34:12.916] LSPD First Response: [TRACE] LifeCycleStage HomeOutside Start: 07:30:00 End: 00:00:00 does not have an end time defined, set to 08:00:00
+[09/05/2022 18:34:12.916] LSPD First Response: [TRACE] LifeCycleStage GoingToWork Start: 08:00:00 End: 00:00:00 does not have an end time defined, set to 09:00:00
+[09/05/2022 18:34:12.916] LSPD First Response: [TRACE] LifeCycleStage GoingHome Start: 13:00:00 End: 00:00:00 does not have an end time defined, set to 14:00:00
+[09/05/2022 18:34:12.916] LSPD First Response: [TRACE] LifeCycleStage HomeInside Start: 14:00:00 End: 00:00:00 does not have an end time defined, set to 07:30:00
+[09/05/2022 18:34:12.928] LSPD First Response: [TRACE] Auto started component PersistentCharacterManager #1
+[09/05/2022 18:34:12.930] LSPD First Response: [TRACE] Auto started component PlayerInvestigationManager #1
+[09/05/2022 18:34:12.932] LSPD First Response: [TRACE] Auto started component WorldPropManager #1
+[09/05/2022 18:34:12.939] LSPD First Response: [TRACE] Auto started component AmbientBehaviorPedOnStreet #1
+[09/05/2022 18:34:12.940] LSPD First Response: [TRACE] Auto started component AmbientBehaviorShotsFired #1
+[09/05/2022 18:34:12.940] LSPD First Response: [TRACE] Auto started component AmbientTrafficStop #1
+[09/05/2022 18:34:12.945] LSPD First Response: In traffic policer duty event handler: True
+[09/05/2022 18:34:12.950] LSPD First Response: Albo1125.Common 6.6.3.0, developed by Albo1125. Starting update checks.
+[09/05/2022 18:34:12.955] LSPD First Response: Albo1125.Common 6.6.3.0, developed by Albo1125. Not checking for updates until 09/06/2022 16:12:29
+[09/05/2022 18:34:12.968] LSPD First Response: Albo1125.Common.dll 6.6.3.0 starting standard dependency check for Traffic Policer
+[09/05/2022 18:34:12.973] LSPD First Response: SCID:/Samtomine/
+[09/05/2022 18:34:12.976] LSPD First Response: GAME VERSION: 1.0.2699.0
+[09/05/2022 18:34:12.978] LSPD First Response: Traffic Policer compatibility warning: The current game version is newer than 1.0.1604.1 and may or may not be incompatible due to RPH changes. Use at own risk.
+[09/05/2022 18:34:12.980] LSPD First Response: Traffic Policer compatibility warning: Different LSPD First Response.dll version detected, use at your own risk! This mod was made for LSPDFR 0.4.2
+[09/05/2022 18:34:12.986] LSPD First Response: Albo1125.Common detected RAGEPluginHook version: 1.96
+[09/05/2022 18:34:12.986] LSPD First Response: Dependency check for Traffic Policer successful: True
+[9/5/2022 6:34:12 PM.994] LSPD First Response: Deserialized Fredo Marzette
+[09/05/2022 18:34:13.741] LSPD First Response: CompuLite Localization Code Page: 1252
+[09/05/2022 18:34:13.741] LSPD First Response: CompuLite Localization Encoding Name: Western European (Windows)
+[09/05/2022 18:34:13.760] LSPD First Response: --------------------------------------ForceACallout startup log--------------------------------------
+[09/05/2022 18:34:13.763] LSPD First Response: [ForceACallout]: Fetching latest plugin version from GitHub
+[09/05/2022 18:34:14.485] LSPD First Response: [ForceACallout]: Checking version of plugin ForceACallout Failed
+[09/05/2022 18:34:14.485] LSPD First Response: [ForceACallout]: There was an issue checking plugin versions, the plugin may be out of date!
+[09/05/2022 18:34:14.542] ====================================================================================================
+[09/05/2022 18:34:14.543] Unhandled exception occurred in console command "ForceDuty"
+[09/05/2022 18:34:14.543] Exception type: System.ArgumentException
+[09/05/2022 18:34:14.543] Exception message: Requested value ',' was not found.
+[09/05/2022 18:34:14.543] Stack trace: at System.Enum.TryParseEnum(Type enumType, String value, Boolean ignoreCase, EnumResult& parseResult)
+[09/05/2022 18:34:14.543]    at System.Windows.Forms.KeysConverter.ConvertFrom(ITypeDescriptorContext context, CultureInfo culture, Object value)
+[09/05/2022 18:34:14.543]    at ForceACallout.Utils.Settings.LoadSettings()
+[09/05/2022 18:34:14.543]    at ForceACallout.Main.DutyStateChange(Boolean OnDuty)
+[09/05/2022 18:34:14.543]    at LSPD_First_Response.Mod.API.Functions.OnDutyStateChangedEventHandler.Invoke(Boolean onDuty)
+[09/05/2022 18:34:14.543]    at tpVaDKrHxMEhmSNVSPKRHnbLrfWK.sTgtUsxlOVMFKTyYDNLOJvmDKliu(Boolean ) in D:\GTA V\LSPD First Response\LSPD First Response\Mod\PlayerDutyController.cs:line 69
+[09/05/2022 18:34:14.543]    at tpVaDKrHxMEhmSNVSPKRHnbLrfWK.xSUvlUYEzjIhRIrZxMIVwdGQsCEp(Boolean , Boolean ) in D:\GTA V\LSPD First Response\LSPD First Response\Mod\PlayerDutyController.cs:line 371
+[09/05/2022 18:34:14.543]    at tpVaDKrHxMEhmSNVSPKRHnbLrfWK.obVcplLiEhEpMNDWbAWrCdLGelUF(Boolean , Boolean , Boolean ) in D:\GTA V\LSPD First Response\LSPD First Response\Mod\PlayerDutyController.cs:line 291
+[09/05/2022 18:34:14.543]    at LSPD_First_Response.Mod.Utils.ConsoleCommands.Command_ForceDuty(Boolean keepCurrentOutfit, Boolean keepLoadout, String agency) in D:\GTA V\LSPD First Response\LSPD First Response\Mod\Utils\ConsoleCommands.cs:line 251
+[09/05/2022 18:34:14.543] ====================================================================================================
+[9/5/2022 6:34:14 PM.602] LSPD First Response: [TRACE] Thread AmbientTrafficStop #1 initialized
+[9/5/2022 6:34:14 PM.602] LSPD First Response: [TRACE] Thread AmbientBehaviorShotsFired #1 initialized
+[9/5/2022 6:34:14 PM.602] LSPD First Response: [TRACE] Thread AmbientBehaviorPedOnStreet #1 initialized
+[9/5/2022 6:34:14 PM.602] LSPD First Response: [TRACE] Thread PersonaSearch #1 initialized
+[9/5/2022 6:34:14 PM.636] LSPD First Response: [TRACE] Thread Ambient #1 initialized
+[9/5/2022 6:34:14 PM.687] LSPD First Response: [TRACE] Thread ArrestManager #1 initialized
+[9/5/2022 6:34:14 PM.693] LSPD First Response: [TRACE] Thread SuspectTransportManager #1 initialized
+[9/5/2022 6:34:14 PM.712] LSPD First Response: [TRACE] Has taken study survey: False
+[9/5/2022 6:34:14 PM.715] LSPD First Response: [TRACE] Thread WorldEventManager #1 initialized
+[9/5/2022 6:34:14 PM.735] LSPD First Response: [TRACE] Thread BoundlessInformant #1 initialized
+[9/5/2022 6:34:14 PM.740] LSPD First Response: [TRACE] Thread PlayerSuspectTransportManager #1 initialized
+[9/5/2022 6:34:14 PM.765] LSPD First Response: [TRACE] Thread StudyStatistics #1 initialized
+[9/5/2022 6:34:14 PM.765] LSPD First Response: [TRACE] Thread AmbientCharacterManager #1 initialized
+[9/5/2022 6:34:14 PM.768] LSPD First Response: [TRACE] Thread AmbientEvidenceManager #1 initialized
+[9/5/2022 6:34:14 PM.771] LSPD First Response: [TRACE] Thread PersistentCharacterManager #1 initialized
+[9/5/2022 6:34:14 PM.773] LSPD First Response: [TRACE] Thread PlayerInvestigationManager #1 initialized
+[9/5/2022 6:34:14 PM.778] LSPD First Response: [TRACE] Thread WorldPropManager #1 initialized
+[9/5/2022 6:34:14 PM.781] LSPD First Response: Traffic Policer is not in beta.
+[9/5/2022 6:34:14 PM.792] LSPD First Response: Traffic Policer.Mainloop started
+[9/5/2022 6:34:14 PM.792] LSPD First Response: Loading Traffic Policer settings...
+[9/5/2022 6:34:14 PM.897] LSPD First Response: Registering callout Traffic_Policer.Callouts.OwnerWanted
+[9/5/2022 6:34:14 PM.897] LSPD First Response: Registering callout Traffic_Policer.Callouts.OwnerWanted
+[9/5/2022 6:34:14 PM.897] LSPD First Response: Registering callout Traffic_Policer.Callouts.OwnerWanted
+[9/5/2022 6:34:14 PM.897] LSPD First Response: Registering callout Traffic_Policer.Callouts.DrugsRunners
+[9/5/2022 6:34:14 PM.897] LSPD First Response: Registering callout Traffic_Policer.Callouts.DrugsRunners
+[9/5/2022 6:34:14 PM.897] LSPD First Response: Registering callout Traffic_Policer.Callouts.DriverUnderTheInfluence
+[9/5/2022 6:34:14 PM.897] LSPD First Response: Registering callout Traffic_Policer.Callouts.DriverUnderTheInfluence
+[9/5/2022 6:34:14 PM.902] LSPD First Response: Traffic Policer by Albo1125 has been loaded successfully!
+[9/5/2022 6:34:17 PM.257] LSPD First Response: [TRACE] Thread CrimesMenu #1 initialized
+[9/5/2022 6:34:17 PM.743] LSPD First Response: Traffic Policer Speed Checker started.
+[5/09/2022 6:34:38 PM.261] LSPD First Response: CompuLite: Citations.xml has been successfully loaded
+[5/09/2022 6:34:38 PM.320] LSPD First Response: CompuLite: Charges.xml has been successfully loaded
+[9/4/2022 6:02:22 PM.449] LSPD First Response: Exception type: System.AccessViolationException
+[9/4/2022 6:02:22 PM.449] LSPD First Response: Exception message: Attempted to read or write protected memory. This is often an indication that other memory is corrupt.
+[9/4/2022 6:02:22 PM.449] LSPD First Response: ------------------------------
+[9/4/2022 6:02:22 PM.449] LSPD First Response: Inner exceptions:
+[9/4/2022 6:02:22 PM.449] LSPD First Response: ------------------------------
+[9/4/2022 6:02:22 PM.449] LSPD First Response: Stack trace:
+[9/4/2022 6:02:22 PM.449] LSPD First Response: at Rage.Native.NativeFunction.CallByAddress(IntPtr address, Type returnType, NativeArgument[] arguments)
+[9/4/2022 6:02:22 PM.449] at Rage.Native.NativeFunction.CallByHash(UInt64 nativeHash, Type returnType, NativeArgument[] arguments)
+[9/4/2022 6:02:22 PM.449] at Rage.Native.NativeFunction.CallByHash[ReturnType](UInt64 nativeHash, NativeArgument[] arguments)
+[9/4/2022 6:02:22 PM.449] at eilcMlRBmitBeNmgAlpWITnLJwvH.cccYfdeySLdApNtWSzwgKYuIPELi() in D:\GTA V\LSPD First Response\LSPD First Response\Mod\LSPDFR.cs:line 431
+[9/4/2022 6:02:22 PM.449] at eilcMlRBmitBeNmgAlpWITnLJwvH.ShAqpJrLafghhtzmegDgLYJbhWfl() in D:\GTA V\LSPD First Response\LSPD First Response\Mod\LSPDFR.cs:line 155
+[9/4/2022 6:02:22 PM.449] at Rage.GameFiber.Main()
+[9/4/2022 6:02:22 PM.449] LSPD First Response: ==============================
+[9/4/2022 6:02:22 PM.449] LSPD First Response:
+[9/4/2022 6:02:22 PM.453] LSPD First Response: [TRACE] Thread CopManager #1 initialized
+[9/4/2022 6:02:22 PM.460] LSPD First Response: [FATAL] Forced termination
+[9/4/2022 6:02:22 PM.473] LSPD First Response: [TRACE] Released 0 entities from DefaultContentManager
+[9/4/2022 6:02:24 PM.720] LSPD First Response: [INFO] LSPDFR has shut down
+[9/4/2022 6:02:25 PM.253] Could not terminate plugin. Attempted to read or write protected memory. This is often an indication that other memory is corrupt.
+[9/6/2022 10:22:59 PM.600] LSPD First Response: 
+[9/6/2022 10:22:59 PM.600] LSPD First Response: ==============================
+[9/6/2022 10:22:59 PM.600] LSPD First Response: UNHANDLED EXCEPTION DURING GAME FIBER TICK
+[9/6/2022 10:22:59 PM.600] LSPD First Response: ------------------------------
+[9/6/2022 10:22:59 PM.600] LSPD First Response: Origin: Game fiber "<UNNAMED THREAD>".
+[9/6/2022 10:22:59 PM.600] LSPD First Response: ------------------------------
+[9/6/2022 10:22:59 PM.600] LSPD First Response: Exception type: System.Exception
+[9/6/2022 10:22:59 PM.600] LSPD First Response: Exception message: Processing cache while it's still in use - one or more subcalls may have caused the thread to yield
+[9/6/2022 10:22:59 PM.600] LSPD First Response: ------------------------------
+[9/6/2022 10:22:59 PM.600] LSPD First Response: Inner exceptions:
+[9/6/2022 10:22:59 PM.600] LSPD First Response: ------------------------------
+[9/6/2022 10:22:59 PM.600] LSPD First Response: Stack trace:
+[9/6/2022 10:22:59 PM.601] LSPD First Response: at dXDariIajebcbNdDKndYCAJBnLeMc.zpyaVHLhAmgRtCqugcgijQymEjMV() in D:\GTA V\LSPD First Response\LSPD First Response\Engine\Scripting\Entities\CPedCache.cs:line 45
+[9/6/2022 10:22:59 PM.601] at peQuRGeEkxsInrWmTEOdMIguiAic.zpyaVHLhAmgRtCqugcgijQymEjMV() in D:\GTA V\LSPD First Response\LSPD First Response\Engine\Main.cs:line 54
+[9/6/2022 10:22:59 PM.601] at eilcMlRBmitBeNmgAlpWITnLJwvH.OwuXhFkCIbESzParwcMBGbdAcxohA() in D:\GTA V\LSPD First Response\LSPD First Response\Mod\LSPDFR.cs:line 802
+[9/6/2022 10:22:59 PM.601] at Rage.GameFiber.Main()
+[9/6/2022 10:22:59 PM.601] LSPD First Response: ==============================
+[9/6/2022 10:22:59 PM.601] LSPD First Response: 
+[9/6/2022 10:22:59 PM.607] LSPD First Response: [FATAL] Forced termination
+[9/6/2022 10:22:59 PM.607] LSPD First Response: [TRACE] Released 0 entities from DefaultContentManager
+[9/6/2022 10:23:02 PM.404] LSPD First Response: [INFO] LSPDFR has shut down
+[9/6/2022 10:23:03 PM.178] LSPD First Response: Error while processing callout: Heavily Armored Gunman: 執行緒已經中止。   at Rage.GameFiber.SleepThis(Int32 duration)
+[9/6/2022 10:23:03 PM.178] at Rage.GameFiber.WaitThis(Int32 duration)
+[9/6/2022 10:23:03 PM.178] at Rage.GameFiber.Wait(Int32 duration)
+[9/6/2022 10:23:03 PM.179] at SimpleCallouts.Callouts.HeavilyArmoredGunman.‮‪‎⁭⁫‍‏⁮⁯‎‏⁮​‫​‫⁯⁮⁮‌‮‎‎‌‬‪​‍‭​⁮​​‫⁬​⁯‎​⁫‮(Int32 )
+[9/6/2022 10:23:03 PM.179] at SimpleCallouts.Callouts.HeavilyArmoredGunman.Process()
+[9/6/2022 10:23:03 PM.179] at iEzfXcEfSouJKwAYuBpfsOKMfWPFA.zpyaVHLhAmgRtCqugcgijQymEjMV() in D:\GTA V\LSPD First Response\LSPD First Response\Mod\Callouts\CalloutManager.cs:line 190
+[9/6/2022 10:23:03 PM.179] LSPD First Response: EndCurrentCallout: Finishing...
+[9/6/2022 10:23:03 PM.182] LSPD First Response: [TRACE] Cleaning UI
+[9/6/2022 10:23:03 PM.183] LSPD First Response: [TRACE] Released 0 entities from  #8 Content Manager
+[9/6/2022 10:23:03 PM.183] LSPD First Response: [TRACE] Instance cleaned ( #8)
+[9/6/2022 10:23:03 PM.627] LSPD First Response: UB All Police Partners are removed
+[9/6/2022 10:23:03 PM.757] LSPD First Response: UB All Police Buddy are removed
+[9/6/2022 10:23:03 PM.775] LSPD First Response: UB: UNIT FULLY DISMISSED >> OSB-0 | TOTAL ACTIVE UNIT >> 3
+[9/6/2022 10:23:03 PM.797] LSPD First Response: STP cannot activate traffic control
+[9/6/2022 10:23:03 PM.817] LSPD First Response: UB All Police Buddy are removed
+[9/6/2022 10:23:03 PM.833] LSPD First Response: UB: UNIT FULLY DISMISSED >> OSB-1 | TOTAL ACTIVE UNIT >> 2
+[9/6/2022 10:23:03 PM.837] LSPD First Response: UB All Police Buddy are removed
+[9/6/2022 10:23:03 PM.847] LSPD First Response: UB All Police Buddy are removed
+[9/6/2022 10:23:03 PM.855] LSPD First Response: UB: UNIT FULLY DISMISSED >> OSB-3 | TOTAL ACTIVE UNIT >> 1
+[9/6/2022 10:23:03 PM.865] LSPD First Response: UB: UNIT FULLY DISMISSED >> OSB-4 | TOTAL ACTIVE UNIT >> 0
