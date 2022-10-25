@@ -25,7 +25,7 @@ https://www.lcpdfr.com/downloads/gta5mods/g17media/7792-lspd-first-response/
 https://www.dev-c.com/gtav/scripthookv/
 ```
 
-### ➡️ Without ScriptHookV
+### ℹ️ Without ScriptHookV
 
 ```
 LSPDFR was just recently updated to be compatible for the new GTAV update. Download it here:
