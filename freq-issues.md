@@ -32,3 +32,8 @@ LSPDFR was just recently updated to be compatible for the new GTAV update. Downl
 
 https://www.lcpdfr.com/downloads/gta5mods/g17media/7792-lspd-first-response/
 ```
+
+# ➡️ Game Updates
+```
+Launch RPH, then immediatly hold SHIFT. Change Plugin Timeout Threshold to 60000. Click Save and Launch.
+```
